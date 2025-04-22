@@ -1,0 +1,52 @@
+[
+  {
+    "url": "https://www.rottentomatoes.com/m/dune_part_two",
+    "criticsScore": "92%",
+    "criticReviews": "456 Reviews",
+    "audienceScore": "95%",
+    "audienceVerifiedCount": "5,000+ Verified Ratings",
+    "isCriticScoreEmpty": false,
+    "isAudienceScoreEmpty": false,
+    "category": "Sci-Fi, Adventure, Action, Fantasy, Drama"
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/oppenheimer_2023",
+    "criticsScore": "93%",
+    "criticReviews": "509 Reviews",
+    "audienceScore": "91%",
+    "audienceVerifiedCount": "10,000+ Verified Ratings",
+    "isCriticScoreEmpty": false,
+    "isAudienceScoreEmpty": false,
+    "category": "Biography, History, Drama"
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/godzilla_x_kong_the_new_empire",
+    "criticsScore": "54%",
+    "criticReviews": "249 Reviews",
+    "audienceScore": "89%",
+    "audienceVerifiedCount": "5,000+ Verified Ratings",
+    "isCriticScoreEmpty": false,
+    "isAudienceScoreEmpty": false,
+    "category": "Sci-Fi, Action, Adventure"
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/a_minecraft_movie",
+    "criticsScore": "48%",
+    "criticReviews": "170 Reviews",
+    "audienceScore": "87%",
+    "audienceVerifiedCount": "5,000+ Verified Ratings",
+    "isCriticScoreEmpty": false,
+    "isAudienceScoreEmpty": false,
+    "category": "Kids & Family, Fantasy, Adventure, Comedy, Action"
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/gangers",
+    "criticsScore": "",
+    "criticReviews": "No Reviews",
+    "audienceScore": "",
+    "audienceVerifiedCount": "No Reviews",
+    "isCriticScoreEmpty": false,
+    "isAudienceScoreEmpty": false,
+    "category": "Action, Adventure, Comedy"
+  }
+]
