@@ -1,6 +1,7 @@
 import puppeteer from 'puppeteer';
 import fs from 'fs';
 import { extractMovieInfo } from './modules/crawl.js';
+import { upsertMovies } from './core/db/pinecone-helper.js';
 
 const movies = [
   'https://www.rottentomatoes.com/m/dune_part_two',
@@ -31,5 +32,9 @@ const movies = [
   await browser.close();
 
   console.log('\n🎬 Final Results:', results);
+
+  upsertMovies(results);
+
+  console.log('Upserted movies to Pinecone.');
   fs.writeFileSync('rottentomatoes_results.json', JSON.stringify(results, null, 2));
 })();

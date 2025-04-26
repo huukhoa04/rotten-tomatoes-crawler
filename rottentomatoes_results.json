@@ -1,27 +1,8 @@
 [
   {
-    "url": "https://www.rottentomatoes.com/m/dune_part_two",
-    "movieTitle": "Dune: Part Two",
-    "metadataArr": [
-      "PG-13",
-      "Released Mar 1 2024",
-      "2h 46m"
-    ],
-    "criticsScore": "92%",
-    "criticReviews": "456 Reviews",
-    "audienceScore": "95%",
-    "audienceVerifiedCount": "5,000+ Verified Ratings",
-    "genres": [
-      "Sci-Fi",
-      "Adventure",
-      "Action",
-      "Fantasy",
-      "Drama"
-    ]
-  },
-  {
     "url": "https://www.rottentomatoes.com/m/oppenheimer_2023",
     "movieTitle": "Oppenheimer",
+    "movieDesc": "During World War II, Lt. Gen. Leslie Groves Jr. appoints physicist J. Robert Oppenheimer to work on the top-secret Manhattan Project. Oppenheimer and a team of scientists spend years developing and designing the atomic bomb. Their work comes to fruition on July 16, 1945, as they witness the world's first nuclear explosion, forever changing the course of history.",
     "metadataArr": [
       "R",
       "Released Jul 21 2023",
@@ -40,6 +21,7 @@
   {
     "url": "https://www.rottentomatoes.com/m/godzilla_x_kong_the_new_empire",
     "movieTitle": "Godzilla x Kong: The New Empire",
+    "movieDesc": "This latest entry in the Monsterverse franchise follows up the explosive showdown of Godzilla vs. Kong with an all-new cinematic adventure, pitting the almighty Kong and the fearsome Godzilla against a colossal undiscovered threat hidden within our world, challenging their very existence -- and our own. The epic new film will delve further into the histories of these Titans, their origins, and the mysteries of Skull Island and beyond, while uncovering the mythic battle that helped forge these extraordinary beings and tied them to humankind forever.",
     "metadataArr": [
       "PG-13",
       "Released Mar 29 2024",
@@ -58,15 +40,16 @@
   {
     "url": "https://www.rottentomatoes.com/m/a_minecraft_movie",
     "movieTitle": "A Minecraft Movie",
+    "movieDesc": "Welcome to the world of Minecraft, where creativity doesn't just help you craft, it's essential to one's survival! Four misfits--Garrett \"The Garbage Man\" Garrison (Jason Momoa), Henry (Sebastian Eugene Hansen), Natalie (Emma Myers) and Dawn (Danielle Brooks)--find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld: a bizarre, cubic wonderland that thrives on imagination. To get back home, they'll have to master this world (and protect it from evil things like Piglins and Zombies, too) while embarking on a magical quest with an unexpected, expert crafter, Steve (Jack Black). Together, their adventure will challenge all five to be bold and to reconnect with the qualities that make each of them uniquely creative... the very skills they need to thrive back in the real world.",
     "metadataArr": [
       "PG",
       "Now Playing",
       "1h 41m"
     ],
     "criticsScore": "48%",
-    "criticReviews": "170 Reviews",
-    "audienceScore": "87%",
-    "audienceVerifiedCount": "5,000+ Verified Ratings",
+    "criticReviews": "171 Reviews",
+    "audienceScore": "86%",
+    "audienceVerifiedCount": "10,000+ Verified Ratings",
     "genres": [
       "Kids & Family",
       "Fantasy",
@@ -78,18 +61,19 @@
   {
     "url": "https://www.rottentomatoes.com/m/gangers",
     "movieTitle": "Gangers",
+    "movieDesc": "Saravanan, an undercover cop posing as a PT master, takes on ruthless criminals Malayarasan and Kottaiyarasan, uncovers a 100 crore scam by their brother Mudiyarasan, and forms a gang with school staff to bring them down.",
     "metadataArr": [
-      "In Theaters Thu Apr 24",
+      "Now Playing",
       "2h 39m"
     ],
     "criticsScore": "No Rating",
-    "criticReviews": "No Reviews",
+    "criticReviews": "2 Reviews",
     "audienceScore": "No Rating",
     "audienceVerifiedCount": "No Reviews",
     "genres": [
       "Action",
-      "Adventure",
-      "Comedy"
+      "Comedy",
+      "Adventure"
     ]
   }
 ]

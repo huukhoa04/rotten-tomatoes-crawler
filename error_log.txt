@@ -1,0 +1,3 @@
+Error embedding movies: Request failed with status code 422
+Error embedding movies: Failed to get embeddings from Pinecone API
+Error embedding movies: Failed to get embeddings from Pinecone API

@@ -1,7 +1,7 @@
 import puppeteer from 'puppeteer';
 
 /**
- * Extracts movie info from a Rotten Tomatoes movie page.
+ * Extracts movie info from a Rotten Tomatoes movie page and upserts to Pinecone.
  * @param {puppeteer.Page} page
  * @param {string} url
  * @returns {Promise<object>}
@@ -11,13 +11,16 @@ export async function extractMovieInfo(page, url) {
   await page.waitForSelector('rt-text[slot="criticsScore"]', { timeout: 10000 });
   await page.waitForSelector('rt-text[slot="audienceScore"]', { timeout: 10000 });
 
-  return await page.evaluate(() => {
+  const data = await page.evaluate(() => {
     const getText = (selector) =>
       document.querySelector(selector)?.textContent?.trim() ?? 'N/A';
 
     const movieTitleEl = document.querySelector('rt-text[slot="title"]');
+    const movieDescEl = document.querySelector('rt-text[slot="content"]');
     const movieMetadatas = document.querySelectorAll('rt-text[slot="metadataProp"]');
+
     const movieTitle = movieTitleEl?.textContent?.trim() ?? 'N/A';
+    const movieDesc = movieDescEl?.textContent?.trim() ?? 'N/A';
     const metadataArr = Array.from(movieMetadatas).map(node =>
       node.textContent.trim().replace(/[\/,]/g, '')
     );
@@ -36,6 +39,7 @@ export async function extractMovieInfo(page, url) {
 
     return {
       movieTitle,
+      movieDesc,
       metadataArr,
       criticsScore: criticsScore === '' ? 'No Rating' : criticsScore,
       criticReviews: criticReviews === 'N/A' ? 'No Reviews' : criticReviews,
@@ -44,4 +48,6 @@ export async function extractMovieInfo(page, url) {
       genres,
     };
   });
+
+  return data;
 }
