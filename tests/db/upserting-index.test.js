@@ -1,9 +1,9 @@
-import { Pinecone } from "@pinecone-database/pinecone";
-import config from "../../constants/config.js";
+import { Pinecone } from '@pinecone-database/pinecone';
+import config from '../../constants/config.js';
 
 const pc = new Pinecone({
     apiKey: config.pinecone,
-})
+});
 
 
 console.log('Pinecone indexing test...');

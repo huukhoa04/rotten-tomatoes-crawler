@@ -6,7 +6,9 @@
   "scripts": {
     "crawl": "node main.js",
     "api": "node server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
   },
   "keywords": [],
   "author": "",
@@ -18,5 +20,9 @@
     "dotenv": "^16.5.0",
     "express": "^5.1.0",
     "puppeteer": "^24.7.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.25.1",
+    "eslint-plugin-import": "^2.31.0"
   }
 }

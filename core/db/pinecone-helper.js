@@ -1,9 +1,11 @@
 //helper function for pinecone db
 import config from '../../constants/config.js';
 import index_host from '../../constants/db-index.js';
+import getRottenTomatoesSlug from '../../utils/get-url-slug.js';
 import pinecone from './pinecone.js';
 import axios from 'axios';
 import fs from 'fs';
+
 const INDEX_NAME = 'movies'; // Change to your Pinecone index name
 
 
@@ -19,33 +21,26 @@ export async function upsertMovies(movieDatas) {
     const embeddedData = await embedMovies(movieDatas);
   // Example: use movie title + year or url as unique id
   const records = movieDatas.map((d, i) => ({
-    id: d.url || `movie-${i}`,
+    id: getRottenTomatoesSlug(d.url) || `movie-${i}`,
     values: embeddedData[i].values,
     metadata: {
-      title: d.movieTitle || "",
-      genres: (d.genres || []).join(", "),
-      description: d.movieDesc || "",
-      metadata: (d.metadataArr || []).join(", "),
-      criticsScore: d.criticsScore ? d.criticsScore.toString() : "",
-      audienceScore: d.audienceScore ? d.audienceScore.toString() : ""
+      title: d.movieTitle || '',
+      visual: d.movieImage || '',
+      genres: (d.genres || []).join(', '),
+      cast: d.cast || '',
+      description: d.movieDesc || '',
+      metadata: (d.metadataArr || []).join(', '),
+      criticsScore: d.criticsScore ? d.criticsScore.toString() : '',
+      criticReviews: d.criticReviews ? d.criticReviews.toString() : '',
+      criticsConsensus: d.criticsConsensus || '',
+      audienceConsensus: d.audienceConsensus || '',
+      audienceScore: d.audienceScore ? d.audienceScore.toString() : '',
+      audienceVerifiedCount: d.audienceVerifiedCount ? d.audienceVerifiedCount.toString() : '',
     }
   }));
   console.log(JSON.stringify(records));
-        // const records = movieDatas.map((movieData, i) => ({
-        //     id: `movie-${i}`,
-        //     chunk_text: [
-        //         movieData.movieTitle,
-        //         movieData.movieDesc,
-        //         movieData.criticsScore + "cricticsScore",
-        //         movieData.audienceScore + "audienceScore",
-        //       ].filter(Boolean).join(' | '),
-        //     category: [
-        //         ...(movieData.genres || []),
-        //         ...(movieData.metadataArr || []),
-        //       ].filter(Boolean).join(' | '),
-        // }));
 
-  return await index.namespace(`movies-crawled-data`).upsert(records);
+  return await index.namespace(config.recordNamespace).upsert(records);
 }
 
 /**
@@ -56,29 +51,34 @@ export async function upsertMovies(movieDatas) {
 async function embedMovies(movieDatas) {
     const model = config.modelName;
     let headers = {
-      "Content-Type": "application/json",
-      "Accept": "application/json",
-      "api-key": config.pinecone,
-      "x-pinecone-api-version": "2025-04",
-    } 
+      'Content-Type': 'application/json',
+      'Accept': 'application/json',
+      'api-key': config.pinecone,
+      'x-pinecone-api-version': '2025-04',
+    }; 
     let data = {
-      "model": model,
-      "parameters": {
-          "input_type": "passage",
-          "truncate": 'END',
-          "dimension": 768
+      'model': model,
+      'parameters': {
+          'input_type': 'passage',
+          'truncate': 'END',
+          'dimension': 768
       },
-      "inputs": movieDatas.map((d) => ({
-        "text": [
+      'inputs': movieDatas.map((d) => ({
+        'text': [
           d.movieTitle,
           ...(d.genres || []),
           d.movieDesc,
+          d.cast,
           ...(d.metadataArr || []),
           d.criticsScore,
-          d.audienceScore
+          d.criticReviews,
+          d.audienceScore,
+          d.audienceVerifiedCount,
+          d.criticsConsensus,
+          d.audienceConsensus,
         ].filter(Boolean).join(' | ')
       }))
-    }
+    };
     try {
         const response = await axios.post(config.pcEmbed, data, { headers });
         const embeddings = response.data;

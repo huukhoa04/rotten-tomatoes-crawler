@@ -1,40 +1,37 @@
 import puppeteer from 'puppeteer';
 import fs from 'fs';
-import { extractMovieInfo } from './modules/crawl.js';
-import { upsertMovies } from './core/db/pinecone-helper.js';
+import { crawlMoviesInParallel, extractMovieInfo } from './modules/crawl.js';
+import crawlInput from './constants/genres/index.js';
+import ACTION from './constants/genres/action.genre.js';
+import ANIME from './constants/genres/anime.genre.js';
+import COMEDY from './constants/genres/comedy.genre.js';
+import HORROR from './constants/genres/horror.genre.js';
+import MUSIC from './constants/genres/music.genre.js';
+import MYSTERY_N_THRILLER from './constants/genres/mystery-n-thriller.genre.js';
+import ROMANCE from './constants/genres/romance.genre.js';
+import SCIFI from './constants/genres/scifi.genre.js';
+import SPORTS from './constants/genres/sports.genre.js';
 
-const movies = [
-  'https://www.rottentomatoes.com/m/dune_part_two',
-  'https://www.rottentomatoes.com/m/oppenheimer_2023',
-  'https://www.rottentomatoes.com/m/godzilla_x_kong_the_new_empire',
-  'https://www.rottentomatoes.com/m/a_minecraft_movie',
-  'https://www.rottentomatoes.com/m/gangers'
-];
+
+const movies = 
+ACTION;
 
 (async () => {
-  const browser = await puppeteer.launch({ headless: 'new' });
-  const page = await browser.newPage();
+  console.time('Total crawl time');
+  
+  try {
+    // Process all movies in parallel using worker threads
+    const results = await crawlMoviesInParallel(movies);
+    
+    console.log(`\n🎬 Crawled ${results.length} movies successfully`);
+    console.timeEnd('Total crawl time');
+    
+    // Save to JSON
+    fs.writeFileSync('rottentomatoes_results.json', JSON.stringify(results, null, 2));
 
-  const results = [];
-
-  for (const url of movies) {
-    try {
-      console.log(`🔍 Crawling: ${url}`);
-      const data = await extractMovieInfo(page, url);
-      results.push({ url, ...data });
-      await new Promise(resolve => setTimeout(resolve, 2000)); // throttle requests
-    } catch (err) {
-      console.error(`❌ Error scraping ${url}:`, err);
-      results.push({ url, error: err.message });
-    }
+    console.log('Pinecone upsert complete!');
+    
+  } catch (error) {
+    console.error('Failed during execution:', error);
   }
-
-  await browser.close();
-
-  console.log('\n🎬 Final Results:', results);
-
-  upsertMovies(results);
-
-  console.log('Upserted movies to Pinecone.');
-  fs.writeFileSync('rottentomatoes_results.json', JSON.stringify(results, null, 2));
 })();

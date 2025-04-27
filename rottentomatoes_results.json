@@ -1,79 +1,3293 @@
 [
   {
-    "url": "https://www.rottentomatoes.com/m/oppenheimer_2023",
-    "movieTitle": "Oppenheimer",
-    "movieDesc": "During World War II, Lt. Gen. Leslie Groves Jr. appoints physicist J. Robert Oppenheimer to work on the top-secret Manhattan Project. Oppenheimer and a team of scientists spend years developing and designing the atomic bomb. Their work comes to fruition on July 16, 1945, as they witness the world's first nuclear explosion, forever changing the course of history.",
+    "url": "https://www.rottentomatoes.com/m/a_complete_unknown",
+    "movieTitle": "A Complete Unknown",
+    "movieDesc": "New York, 1961. Against the backdrop of a vibrant music scene and tumultuous cultural upheaval, an enigmatic 19-year-old from Minnesota arrives with his guitar and revolutionary talent, destined to change the course of American music. He forges intimate relationships with music icons of Greenwich Village on his meteoric rise, culminating in a groundbreaking and controversial performance that reverberates worldwide. Timothée Chalamet stars and sings as Bob Dylan in James Mangold's A COMPLETE UNKNOWN, the electric true story behind the rise of one of the most iconic singer-songwriters in history.",
+    "movieImage": "https://resizing.flixster.com/rJIeUkG3lhT3vLXAUzOKGsMXpIU=/206x305/v2/https://resizing.flixster.com/eqt-Ae8wE9lkY9IWV82QWKpjuTg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQyYjIzN2EwLTViN2ItNGEzYy1hN2FlLTk0YmYwZTQ2ZjA3ZS5qcGc=",
     "metadataArr": [
       "R",
-      "Released Jul 21 2023",
-      "3h 0m"
+      "Released Dec 25 2024",
+      "2h 21m"
     ],
-    "criticsScore": "93%",
-    "criticReviews": "509 Reviews",
-    "audienceScore": "91%",
-    "audienceVerifiedCount": "10,000+ Verified Ratings",
+    "criticsScore": "82%",
+    "criticReviews": "335 Reviews",
+    "audienceScore": "95%",
+    "audienceVerifiedCount": "5,000+ Verified Ratings",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/whiplash_2014",
+    "movieTitle": "Whiplash",
+    "movieDesc": "Andrew Neiman (Miles Teller) is an ambitious young jazz drummer, in pursuit of rising to the top of his elite music conservatory. Terence Fletcher (J.K. Simmons), an instructor known for his terrifying teaching methods, discovers Andrew and transfers the aspiring drummer into the top jazz ensemble, forever changing the young man's life. But Andrew's passion to achieve perfection quickly spirals into obsession, as his ruthless teacher pushes him to the brink of his ability and his sanity.",
+    "movieImage": "https://resizing.flixster.com/Q38oAHAOYArzZEuJt0s45VAZoy8=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10488558_p_v12_ai.jpg",
+    "metadataArr": [
+      "R",
+      "Released Oct 10 2014",
+      "1h 46m"
+    ],
+    "criticsScore": "94%",
+    "criticReviews": "305 Reviews",
+    "audienceScore": "94%",
+    "audienceVerifiedCount": "50,000+ Ratings",
+    "genres": [
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/priscilla",
+    "movieTitle": "Priscilla",
+    "movieDesc": "When teenage Priscilla Beaulieu meets Elvis Presley at a party, the man who is already a meteoric rock-and-roll superstar becomes someone entirely unexpected in private moments: a thrilling crush, an ally in loneliness, a vulnerable best friend. Through Priscilla’s eyes, Sofia Coppola tells the unseen side of a great American myth in Elvis and Priscilla's long courtship and turbulent marriage, from a German army base to his dream-world estate at Graceland, in this deeply felt and ravishingly detailed portrait of love, fantasy, and fame.",
+    "movieImage": "https://resizing.flixster.com/EwPqPx5B-EI4EsRyxGzKDY3Tm8M=/206x305/v2/https://resizing.flixster.com/meNymKPzc0hZijksZBEYbOhLUrk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzhiYmIwODFmLWYwMzctNGRkOC05MGIwLWJiMGE5M2QyNzc4YS5qcGc=",
+    "metadataArr": [
+      "R",
+      "Released Nov 3 2023",
+      "1h 53m"
+    ],
+    "criticsScore": "84%",
+    "criticReviews": "300 Reviews",
+    "audienceScore": "65%",
+    "audienceVerifiedCount": "500+ Verified Ratings",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Biography",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/coco_2017",
+    "movieTitle": "Coco",
+    "movieDesc": "Despite his family's generations-old ban on music, young Miguel dreams of becoming an accomplished musician like his idol Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead. After meeting a charming trickster named Héctor, the two new friends embark on an extraordinary journey to unlock the real story behind Miguel's family history.",
+    "movieImage": "https://resizing.flixster.com/iCqOkQHPkLr2JMXeQAh8FHR2R_M=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/NowShowing/172117/172117_ac.jpg",
+    "metadataArr": [
+      "PG",
+      "Released Nov 22 2017",
+      "1h 49m"
+    ],
+    "criticsScore": "97%",
+    "criticReviews": "358 Reviews",
+    "audienceScore": "94%",
+    "audienceVerifiedCount": "25,000+ Ratings",
+    "genres": [
+      "Kids & Family",
+      "Comedy",
+      "Adventure",
+      "Music",
+      "Animation"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/becoming_led_zeppelin",
+    "movieTitle": "Becoming Led Zeppelin",
+    "movieDesc": "Interviews, performances and never-before-seen footage provide insight into the origins of Led Zeppelin and their meteoric rise to musical stardom.",
+    "movieImage": "https://resizing.flixster.com/TDL6Xb7eK879cYr0m4q2of9Eea4=/206x305/v2/https://resizing.flixster.com/vRG2uwtYsk3k-Na24fJCSGQo3QE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzcxNTRhY2FiLWQ5ZjQtNDQ4OS1hY2Y2LTU2MTA4MWJjZThjYi5qcGc=",
+    "metadataArr": [
+      "PG-13",
+      "Released Feb 14",
+      "2h 2m"
+    ],
+    "criticsScore": "83%",
+    "criticReviews": "40 Reviews",
+    "audienceScore": "95%",
+    "audienceVerifiedCount": "1,000+ Verified Ratings",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/maria_2024",
+    "movieTitle": "Maria",
+    "movieDesc": "The tumultuous, beautiful and tragic story of the life of the world’s greatest female opera singer, relived and reimagined during her final days in 1970s Paris.",
+    "movieImage": "https://resizing.flixster.com/WO-n_PTN2J6K_jhhY0Kxs_m6js8=/206x305/v2/https://resizing.flixster.com/XeOxgvNJ4uJe3JYYyIMIB_GHsCM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRjNGU3ZWJjLWRjYWQtNDFkMy1hY2MyLWIyNjJhMWJjMzY4YS5qcGc=",
+    "metadataArr": [
+      "R",
+      "Released Nov 27 2024",
+      "2h 3m"
+    ],
+    "criticsScore": "75%",
+    "criticReviews": "213 Reviews",
+    "audienceScore": "76%",
+    "audienceVerifiedCount": "50+ Verified Ratings",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/bohemian_rhapsody",
+    "movieTitle": "Bohemian Rhapsody",
+    "movieDesc": "Freddie Mercury -- the lead singer of Queen -- defies stereotypes and convention to become a beloved entertainer; the band's popular songs lead to Queen's rise in the 1970s; after leaving the group to pursue a solo career, Mercury reunites with Queen for the benefit concert Live Aid -- resulting in one of the most memorable performances in rock 'n' roll.",
+    "movieImage": "https://resizing.flixster.com/4_BO75t55_N1Eksiz2yeChvuem8=/206x305/v2/https://resizing.flixster.com/O_8EbgorSfj8YGWHPvQ2TQeVY0U=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2I4MTk1NWE1LTQ2YjctNDMxMC1hYWRjLTU3NjYzOGE2YWM0ZC53ZWJw",
+    "metadataArr": [
+      "PG-13",
+      "Released Nov 2 2018",
+      "2h 15m"
+    ],
+    "criticsScore": "60%",
+    "criticReviews": "418 Reviews",
+    "audienceScore": "85%",
+    "audienceVerifiedCount": "10,000+ Ratings",
     "genres": [
       "Biography",
       "History",
+      "Drama",
+      "Music",
+      "LGBTQ+"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/almost_famous",
+    "movieTitle": "Almost Famous",
+    "movieDesc": "Set in 1973, it chronicles the funny and often poignant coming of age of 15-year-old William, an unabashed music fan who is inspired by the seminal bands of the time. When his love of music lands him an assignment from Rolling Stone magazine to interview the up-and-coming band Stillwater -- fronted by lead guitar Russell Hammond and lead singer Jeff Bebe William embarks on an eye-opening journey with the band's tour, despite the objections of his protective mother.",
+    "movieImage": "https://resizing.flixster.com/riSXeHWrqFsmk5c-bAZ8nAzGSLI=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p26172_p_v10_ag.jpg",
+    "metadataArr": [
+      "R",
+      "Released Sep 15 2000",
+      "2h 2m"
+    ],
+    "criticsScore": "91%",
+    "criticReviews": "228 Reviews",
+    "audienceScore": "92%",
+    "audienceVerifiedCount": "250,000+ Ratings",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/1021699-top_secret",
+    "movieTitle": "Top Secret!",
+    "movieDesc": "Popular and dashing American singer Nick Rivers (Val Kilmer) travels to East Germany to perform in a music festival. When he loses his heart to the gorgeous Hillary Flammond (Lucy Gutteridge), he finds himself caught up in an underground resistance movement. Rivers joins forces with Agent Cedric (Omar Sharif) and Flammond to attempt the rescue of her father, Dr. Paul (Michael Gough), from the Germans, who have captured the scientist in hopes of coercing him into building a new naval mine.",
+    "movieImage": "https://resizing.flixster.com/dex7MiAsD00q5t4Rm3YHS47Q8Ms=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8041_p_v8_aa.jpg",
+    "metadataArr": [
+      "PG",
+      "Released Jun 8 1984",
+      "1h 30m"
+    ],
+    "criticsScore": "77%",
+    "criticReviews": "52 Reviews",
+    "audienceScore": "80%",
+    "audienceVerifiedCount": "25,000+ Ratings",
+    "genres": [
+      "Comedy",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/the_forty_year_old_version",
+    "movieTitle": "The Forty-Year-Old Version",
+    "movieDesc": "Radha, a down-on-her-luck NY playwright, is desperate for a breakthrough before 40. But when she foils what seems like her last shot at success, she's left with no choice but to reinvent herself as rapper RadhaMUSPrime. The Forty-Year-Old Version follows Radha as she vacillates between the worlds of Hip Hop and theater on a quest to find her true voice.",
+    "movieImage": "https://resizing.flixster.com/4Jpk1gd6FXkhzdXsH0ytXnRkwBg=/206x305/v2/https://resizing.flixster.com/PSVRDqkpTQGjFdcSsBLRdzeD4Yc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZkYzJlMmYwLTI0MDktNDkxMC04YmJjLTJlMjhhNjZkMGZjNi5qcGc=",
+    "metadataArr": [
+      "R",
+      "2020",
+      "2h 3m"
+    ],
+    "criticsScore": "99%",
+    "criticReviews": "138 Reviews",
+    "audienceScore": "72%",
+    "audienceVerifiedCount": "250+ Ratings",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/weird_the_al_yankovic_story",
+    "movieTitle": "Weird: The Al Yankovic Story",
+    "movieDesc": "Daniel Radcliffe is \"Weird Al\" Yankovic in the unexaggerated true story about the greatest musician and sex symbol of our time. With Evan Rachel Wood and Rainn Wilson.",
+    "movieImage": "https://resizing.flixster.com/wjCiNhV8GWLbHZFzByR4dm0Rg0A=/206x305/v2/https://resizing.flixster.com/pHGxcsBgHOTKUwN_gCPdt_j7bDw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzM3Y2UwMzI0LWY1NGYtNDEyYy04NzBhLTcyYjY4ZmIzNWJiNy5qcGc=",
+    "metadataArr": [
+      "Released Nov 1 2022",
+      "1h 48m"
+    ],
+    "criticsScore": "84%",
+    "criticReviews": "161 Reviews",
+    "audienceScore": "79%",
+    "audienceVerifiedCount": "1,000+ Ratings",
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/bob_marley_one_love",
+    "movieTitle": "Bob Marley: One Love",
+    "movieDesc": "BOB MARLEY: ONE LOVE celebrates the life and music of an icon who inspired generations through his message of love and unity. On the big screen for the first time, discover Bob's powerful story of overcoming adversity and the journey behind his revolutionary music.",
+    "movieImage": "https://resizing.flixster.com/uMJ_njE2ZMb2Q86q2NkEsNcfKAY=/206x305/v2/https://resizing.flixster.com/PcYbZio4-LZuZJ_XghAxT1GbscY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRhYThlNmUwLTRlMjMtNDA3Ny04ZGY5LTY4MzA5YTcyNjcwMC5qcGc=",
+    "metadataArr": [
+      "PG-13",
+      "Released Feb 14 2024",
+      "1h 47m"
+    ],
+    "criticsScore": "43%",
+    "criticReviews": "198 Reviews",
+    "audienceScore": "91%",
+    "audienceVerifiedCount": "2,500+ Verified Ratings",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/a_star_is_born_2018",
+    "movieTitle": "A Star Is Born",
+    "movieDesc": "Seasoned musician Jackson Maine discovers -- and falls in love with -- struggling artist Ally. She has just about given up on her dream to make it big as a singer until Jackson coaxes her into the spotlight. But even as Ally's career takes off, the personal side of their relationship is breaking down, as Jackson fights an ongoing battle with his own internal demons.",
+    "movieImage": "https://resizing.flixster.com/fSkEE8Gvyku9XO2L3GjapdH3zk8=/206x305/v2/https://resizing.flixster.com/jmpKZR-GAGYWjZpXu25ndlHpD7w=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQyNWM2MmY3LTkyMTctNDU1YS1hNDk1LTBjNDBlNmE1NmQzZi53ZWJw",
+    "metadataArr": [
+      "R",
+      "Released Oct 5 2018",
+      "2h 16m"
+    ],
+    "criticsScore": "90%",
+    "criticReviews": "536 Reviews",
+    "audienceScore": "80%",
+    "audienceVerifiedCount": "10,000+ Ratings",
+    "genres": [
+      "Romance",
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/the_piano_lesson",
+    "movieTitle": "The Piano Lesson",
+    "movieDesc": "Set in 1936 Pittsburgh during the aftermath of the Great Depression, The Piano Lesson follows the lives of the Charles family in the Doaker Charles household and an heirloom, the family piano, which documents the family history through carvings made by their enslaved ancestor.",
+    "movieImage": "https://resizing.flixster.com/HFYhLZeNuYJrO-f7IkxEac2Jwds=/206x305/v2/https://resizing.flixster.com/gbKdlRoubsC4liMtL-l2bV_Xpgg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Y0ZGYwYTJmLTdlNDYtNDNjMi05YWY1LTZiYzllYTBhZDYxOS5qcGc=",
+    "metadataArr": [
+      "PG-13",
+      "Released Nov 8 2024",
+      "2h 5m"
+    ],
+    "criticsScore": "88%",
+    "criticReviews": "128 Reviews",
+    "audienceScore": "65%",
+    "audienceVerifiedCount": "250+ Ratings",
+    "genres": [
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/back_to_black",
+    "movieTitle": "Back to Black",
+    "movieDesc": "The extraordinary story of Amy Winehouse's early rise to fame and the making of her groundbreaking album, Back to Black. Told from Amy's perspective and inspired by her deeply personal lyrics, the film follows the remarkable woman behind the phenomenon and the tumultuous relationship at the center of one of the most legendary albums of all time.",
+    "movieImage": "https://resizing.flixster.com/TlbUCBj4PMtmgO9kxVsHNn2I7mw=/206x305/v2/https://resizing.flixster.com/YQHPbMAQi3pmIkEqbk3xtdl89_8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzU5Mzg3YmViLWZlMjYtNGNjYS1hNjBlLTU3NzBiYTI3ODQyNC5qcGc=",
+    "metadataArr": [
+      "R",
+      "Released May 17 2024",
+      "2h 2m"
+    ],
+    "criticsScore": "35%",
+    "criticReviews": "181 Reviews",
+    "audienceScore": "86%",
+    "audienceVerifiedCount": "250+ Verified Ratings",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/elvis",
+    "movieTitle": "Elvis",
+    "movieDesc": "The film explores the life and music of Elvis Presley (Austin Butler), seen through the prism of his complicated relationship with his enigmatic manager, Colonel Tom Parker (Tom Hanks). The story delves into the complex dynamic between Presley and Parker spanning over 20 years, from Presley's rise to fame to his unprecedented stardom, against the backdrop of the evolving cultural landscape and loss of innocence in America. Central to that journey is one of the most significant and influential people in Elvis's life, Priscilla Presley (Olivia DeJonge).",
+    "movieImage": "https://resizing.flixster.com/4w2wpnl-VqjhZOaeV_9Dyr4rOl4=/206x305/v2/https://resizing.flixster.com/mYfU74jKBCV9KA_O7ktmk5exwu4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzczNjAwNTk0LTRlZWEtNDY5Ni1iYWM1LWRhZjI1OWUzODNhNy5qcGc=",
+    "metadataArr": [
+      "PG-13",
+      "Released Jun 24 2022",
+      "2h 39m"
+    ],
+    "criticsScore": "77%",
+    "criticReviews": "401 Reviews",
+    "audienceScore": "94%",
+    "audienceVerifiedCount": "10,000+ Verified Ratings",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/entergalactic",
+    "movieTitle": "Entergalactic",
+    "movieDesc": "Ambitious artist Jabari attempts to balance success and love when he moves into his dream Manhattan apartment and falls for his next-door neighbor.",
+    "movieImage": "https://resizing.flixster.com/OYo0-ebJSyCzDYCGvihTDvdzR_M=/206x305/v2/https://resizing.flixster.com/Jba-safOmWN3iLRIPVcDJwoYTZw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzUyZDRiYTg0LTI5ZTktNDUzZS1iYjhiLWMwNzIyMDBhNDQzMC5qcGc=",
+    "metadataArr": [
+      "2022",
+      "1h 32m"
+    ],
+    "criticsScore": "97%",
+    "criticReviews": "30 Reviews",
+    "audienceScore": "94%",
+    "audienceVerifiedCount": "500+ Ratings",
+    "genres": [
+      "Music",
+      "Romance",
+      "Comedy",
+      "Animation"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/the_colors_within",
+    "movieTitle": "The Colors Within",
+    "movieDesc": "Totsuko is a high school student with the ability to see the 'colors' of others. Colors of bliss, excitement, and serenity, plus a color she treasures as her favorite. Kimi, a classmate at her school, gives off the most beautiful color of all. Although she doesn't play an instrument, Totsuko forms a band with Kimi and Rui, a quiet music enthusiast they meet at a used bookstore in a far corner of town. As they practice at an old church on a remote island, music brings them together, forming friendships and stirring affections. Will they discover their true 'colors'?",
+    "movieImage": "https://resizing.flixster.com/m1kChDr2M32iz57B_0IujNPR3gQ=/206x305/v2/https://resizing.flixster.com/CnQ6Z-MgOl_RHEWut150YmH-XVs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzk0NDJhNjc1LTViZjUtNDdlOS04OWJkLThiMmY0OTU0YzZlYi5qcGc=",
+    "metadataArr": [
+      "PG",
+      "Released Jan 24",
+      "1h 50m"
+    ],
+    "criticsScore": "93%",
+    "criticReviews": "46 Reviews",
+    "audienceScore": "90%",
+    "audienceVerifiedCount": "100+ Verified Ratings",
+    "genres": [
+      "Drama",
+      "Anime",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/robot_dreams",
+    "movieTitle": "Robot Dreams",
+    "movieDesc": "DOG lives in Manhattan and he's tired of being alone. One day he decides to build himself a robot, a companion. Their friendship blossoms, until they become inseparable, to the rhythm of 80's NYC. One summer night, DOG, with great sadness, is forced to abandon ROBOT at the beach. Will they ever meet again?",
+    "movieImage": "https://resizing.flixster.com/pwKRVZlo7e1i4aD_gdPPvQQcr7M=/206x305/v2/https://resizing.flixster.com/WYVHqc_kkg5mBlPb4KzXlHTKe40=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2UxOWVmOGM5LTg1ZWMtNDdmZi1hY2ZkLWZjZGRiY2E4ZDkzNi5qcGc=",
+    "metadataArr": [
+      "Released Nov 22 2023",
+      "1h 42m"
+    ],
+    "criticsScore": "98%",
+    "criticReviews": "136 Reviews",
+    "audienceScore": "88%",
+    "audienceVerifiedCount": "500+ Ratings",
+    "genres": [
+      "Kids & Family",
+      "Drama",
+      "Music",
+      "Animation"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/maestro_2023",
+    "movieTitle": "Maestro",
+    "movieDesc": "Maestro is a towering and fearless love story chronicling the lifelong relationship between Leonard Bernstein and Felicia Montealegre Cohn Bernstein. A love letter to life and art, Maestro at its core is an emotionally epic portrayal of family and love.",
+    "movieImage": "https://resizing.flixster.com/9ksb0eFoytUoT86OohQBu83lnI0=/206x305/v2/https://resizing.flixster.com/QxuXNaDPg5NQX_DPml6C0zV1A5E=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZmMDhiMTk1LTc5MzMtNGQ0OS04NTNiLTY2MWEwZDBkYjRlMi5qcGc=",
+    "metadataArr": [
+      "R",
+      "Released Nov 22 2023",
+      "2h 9m"
+    ],
+    "criticsScore": "78%",
+    "criticReviews": "330 Reviews",
+    "audienceScore": "57%",
+    "audienceVerifiedCount": "2,500+ Ratings",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Romance",
+      "Music",
+      "LGBTQ+"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/sing_street",
+    "movieTitle": "Sing Street",
+    "movieDesc": "In 1985, a Dublin teenager (Ferdia Walsh-Peelo) forms a rock 'n' roll band to win the heart of an aspiring model (Lucy Boynton).",
+    "movieImage": "https://resizing.flixster.com/VDldapQJK9Gh4otY0tkR6MhdRrQ=/206x305/v2/https://resizing.flixster.com/L7ImAjsyC1jjSKSMGRSXTUw5Hco=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2U5MjNjMWM4LWM0MDktNDgxNi04ZDU4LTEyZjQxY2VmNjQwOC53ZWJw",
+    "metadataArr": [
+      "PG-13",
+      "Released May 13 2016",
+      "1h 46m"
+    ],
+    "criticsScore": "95%",
+    "criticReviews": "219 Reviews",
+    "audienceScore": "92%",
+    "audienceVerifiedCount": "10,000+ Ratings",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/popstar_never_stop_never_stopping",
+    "movieTitle": "Popstar: Never Stop Never Stopping",
+    "movieDesc": "Childhood friends Conner (Andy Samberg), Owen (Jorma Taccone) and Lawrence (Akiva Schaffer) found fame and fortune after forming the hip-hop group the Style Boyz. Owen and Lawrence faded into the background when frontman Conner left the band to launch a successful solo career. Now, the egotistical singer decides to film a documentary about his life while he's still on top. When his second album flops, the camera is there to capture his world come crashing down.",
+    "movieImage": "https://resizing.flixster.com/dpjUzr_BDmIs0w7BNDQO832uwPI=/206x305/v2/https://resizing.flixster.com/Ic_qYtAYGAE2ONGZ9TgxHWj3u9M=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzA0Y2UxOTFhLWJiNjMtNDM4Yy1iYWJlLWViMjYxNmE1OWYxMS53ZWJw",
+    "metadataArr": [
+      "R",
+      "Released Jun 3 2016",
+      "1h 26m"
+    ],
+    "criticsScore": "79%",
+    "criticReviews": "172 Reviews",
+    "audienceScore": "65%",
+    "audienceVerifiedCount": "10,000+ Ratings",
+    "genres": [
+      "Comedy",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/tar_2022",
+    "movieTitle": "Tár",
+    "movieDesc": "From writer-producer-director Todd Field comes TÁR, starring Cate Blanchett as Lydia Tár, the groundbreaking conductor of a major German Orchestra. We meet Tár at the height of her career, as she's preparing both a book launch and much-anticipated live performance of Mahler's Fifth Symphony. Over the ensuing weeks her life begins to unravel in a singularly modern way. The result is a searing examination of power, and its impact and durability in today's society.",
+    "movieImage": "https://resizing.flixster.com/aJSvxZtV36VB4M6xJqrB5roH8ow=/206x305/v2/https://resizing.flixster.com/wFUHH4yTM6tmK4R-0f6pCrCPpB0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBlZGZjZWM1LTVkNmMtNDYzZC1iNjc0LTYwNDY0YTkzYTExYy5qcGc=",
+    "metadataArr": [
+      "R",
+      "Released Oct 28 2022",
+      "2h 38m"
+    ],
+    "criticsScore": "91%",
+    "criticReviews": "356 Reviews",
+    "audienceScore": "74%",
+    "audienceVerifiedCount": "250+ Verified Ratings",
+    "genres": [
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/tumbledown_2016",
+    "movieTitle": "Tumbledown",
+    "movieDesc": "A professor (Jason Sudeikis) collaborates with a grieving widow (Rebecca Hall) to write a biography about her husband, a folk singer who attracted a cult following.",
+    "movieImage": "https://resizing.flixster.com/hbeSxn4FIeazDtGa2_kkXfGaSV8=/206x305/v2/https://resizing.flixster.com/EUGHFjTx66d667mQW8lECk_jqp4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZkZTYzMjkyLTM5YTMtNDMwMi1iYzM4LTU2MjE0ZTIzMWI2NS53ZWJw",
+    "metadataArr": [
+      "R",
+      "Released Feb 5 2016",
+      "1h 43m"
+    ],
+    "criticsScore": "70%",
+    "criticReviews": "37 Reviews",
+    "audienceScore": "61%",
+    "audienceVerifiedCount": "1,000+ Ratings",
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/yesterday_2019",
+    "movieTitle": "Yesterday",
+    "movieDesc": "After a worldwide power outage, struggling musician Jack Malik wakes up to discover that no one has ever heard of the Beatles. When he starts to play the band's songs, he soon becomes a pop sensation in the eyes of the media and the adoring public.",
+    "movieImage": "https://resizing.flixster.com/axgZhymBh3YsFk_LUkXOOkfhE7M=/206x305/v2/https://resizing.flixster.com/Xz5YUUdQcujMHxZ_Cfk4l_rNNl8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2I3MGM4NmU3LWIzMzAtNDFkMi1iNjdmLWRhMDkzYjZmZDQ4MC53ZWJw",
+    "metadataArr": [
+      "PG-13",
+      "Released Jun 28 2019",
+      "1h 56m"
+    ],
+    "criticsScore": "63%",
+    "criticReviews": "366 Reviews",
+    "audienceScore": "89%",
+    "audienceVerifiedCount": "10,000+ Verified Ratings",
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/soundtrack_to_a_coup_detat",
+    "movieTitle": "Soundtrack to a Coup d'État",
+    "movieDesc": "United Nations, 1960: the Global South ignites a political earthquake, jazz musicians Abbey Lincoln and Max Roach crash the Security Council, Nikita Khrushchev bangs his shoe, and the U.S. State Department swings into action, sending jazz ambassador Louis Armstrong to Congo to deflect attention from the CIA-backed coup. Director Johan Grimonprez captures the moment when African politics and American jazz collided in this magnificent essay film, a riveting historical rollercoaster that illuminates the political machinations behind the 1961 assassination of Congo's leader Patrice Lumumba. Richly illustrated by eyewitness accounts, official government memos, testimonies from mercenaries and CIA operatives, speeches from Lumumba himself, and a veritable canon of jazz icons, Soundtrack to a Coup d'Etat interrogates colonial history to tell an urgent and timely story of precedent that resonates more than ever in today's geopolitical climate.",
+    "movieImage": "https://resizing.flixster.com/hceFCi_rcU29yJUzhq1Gf0hTPbo=/206x305/v2/https://resizing.flixster.com/bg6PEQCO4vemPTOvGEDZEpISQaI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2NlMTU1YWE0LWNmNDMtNDJjNC04ZTY2LTM5NDkyZmIwYzA0NC5qcGc=",
+    "metadataArr": [
+      "Released Nov 1 2024",
+      "2h 30m"
+    ],
+    "criticsScore": "97%",
+    "criticReviews": "61 Reviews",
+    "audienceScore": "98%",
+    "audienceVerifiedCount": "250+ Ratings",
+    "genres": [
+      "Documentary",
+      "History",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/flora_and_son",
+    "movieTitle": "Flora and Son",
+    "movieDesc": "Single mom Flora (Eve Hewson) is at a loss about what to do with her rebellious teenage son, Max (Orén Kinlan). Encouraged by the police to find Max a hobby, Flora tries to occupy him with a beat-up acoustic guitar. With the help of a washed-up LA musician (Joseph Gordon-Levitt), Flora and Max discover the transformative power of music. From the musical mind of John Carney, \"Flora and Son\" explores the bond between a mother and son on a journey toward a new harmony.",
+    "movieImage": "https://resizing.flixster.com/EcfzuHd_PrWzycdeL2uOxh_-R1c=/206x305/v2/https://resizing.flixster.com/JzcOGvgGp7jIE4wa5_WglLRFhKE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI1MjRmNGRmLTkxZDEtNGRkMi1hNzc1LWViNmJiZWRkMjNlZi5wbmc=",
+    "metadataArr": [
+      "R",
+      "Released Sep 22 2023",
+      "1h 34m"
+    ],
+    "criticsScore": "93%",
+    "criticReviews": "159 Reviews",
+    "audienceScore": "84%",
+    "audienceVerifiedCount": "250+ Ratings",
+    "genres": [
+      "Musical",
+      "Comedy",
+      "Drama",
+      "Music",
+      "Romance"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/climax",
+    "movieTitle": "Climax",
+    "movieDesc": "When members of a dance troupe are lured to an empty school, drug-laced sangria causes their jubilant rehearsal to descend into a dark and explosive nightmare as they try to survive the night -- and find out who's responsible -- before it's too late.",
+    "movieImage": "https://resizing.flixster.com/BLQ_pMUd3OJ4--Wam49VgXQ3qec=/206x305/v2/https://resizing.flixster.com/oKMY2iHXjlgVHWRcBj78dlK4t1s=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2I3NzI5N2JiLTdlYTEtNDQyZC04MWRjLWFmYjAzYzBjOTc3Mi53ZWJw",
+    "metadataArr": [
+      "R",
+      "Released Mar 1 2019",
+      "1h 35m"
+    ],
+    "criticsScore": "69%",
+    "criticReviews": "185 Reviews",
+    "audienceScore": "65%",
+    "audienceVerifiedCount": "1,000+ Ratings",
+    "genres": [
+      "Drama",
+      "Music",
+      "Horror"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/ma_raineys_black_bottom",
+    "movieTitle": "Ma Rainey's Black Bottom",
+    "movieDesc": "Tensions and temperatures rise at a Chicago music studio in 1927 when fiery, fearless blues singer Ma Rainey joins her band for a recording session.",
+    "movieImage": "https://resizing.flixster.com/_XGf8-JRymLRdKB7jQ3B9jnFmcw=/206x305/v2/https://resizing.flixster.com/G_2V2uA8o5asxek62po1PR-4zqw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg2MTk4MGE1LWE1NGYtNDliYi05MWVlLTk2ZTRlMmQyMzE0My5qcGc=",
+    "metadataArr": [
+      "R",
+      "Released Nov 25 2020",
+      "1h 34m"
+    ],
+    "criticsScore": "97%",
+    "criticReviews": "319 Reviews",
+    "audienceScore": "72%",
+    "audienceVerifiedCount": "1,000+ Ratings",
+    "genres": [
+      "History",
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/straight_outta_compton",
+    "movieTitle": "Straight Outta Compton",
+    "movieDesc": "In 1988, a groundbreaking new group revolutionizes music and pop culture, changing and influencing hip-hop forever. N.W.A's first studio album, \"Straight Outta Compton,\" stirs controversy with its brutally honest depiction of life in Southern Los Angeles. With guidance from veteran manager Jerry Heller, band members Ice Cube (O'Shea Jackson Jr.), Dr. Dre (Corey Hawkins), Eazy-E, DJ Yella and MC Ren navigate their way through the industry, acquiring fame, fortune and a place in history.",
+    "movieImage": "https://resizing.flixster.com/CC4LpiLS5t8ZlStlNl-hCJTzwWw=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11657883_p_v7_aq.jpg",
+    "metadataArr": [
+      "R",
+      "Released Aug 14 2015",
+      "2h 27m"
+    ],
+    "criticsScore": "89%",
+    "criticReviews": "244 Reviews",
+    "audienceScore": "91%",
+    "audienceVerifiedCount": "10,000+ Ratings",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/this_is_spinal_tap",
+    "movieTitle": "This Is Spinal Tap",
+    "movieDesc": "\"This Is Spinal Tap\" shines a light on the self-contained universe of a metal band struggling to get back on the charts, including everything from its complicated history of ups and downs, gold albums, name changes and undersold concert dates, along with the full host of requisite groupies, promoters, hangers-on and historians, sessions, release events and those special behind-the-scenes moments that keep it all real.",
+    "movieImage": "https://resizing.flixster.com/hWz5L7Sym7G0UtqiUnQfhxokjV8=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p8142_p_v8_ac.jpg",
+    "metadataArr": [
+      "R",
+      "Released Sep 8 1984",
+      "1h 22m"
+    ],
+    "criticsScore": "96%",
+    "criticReviews": "68 Reviews",
+    "audienceScore": "92%",
+    "audienceVerifiedCount": "100,000+ Ratings",
+    "genres": [
+      "Comedy",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/the_dirt_2019",
+    "movieTitle": "The Dirt",
+    "movieDesc": "The misfits of Mötley Crüe rise from the streets of Hollywood to the heights of international fame in the 1980s.",
+    "movieImage": "https://resizing.flixster.com/eheSCZ0rZgMRkwvas43RmyZoONg=/206x305/v2/https://resizing.flixster.com/oznP0YIskjBzQhDGdas3VA2kpEE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzNjYzJmNWQ1LTQ5ZGEtNGU2Yy1hY2I1LWI0NWY1NDQwN2E4OC53ZWJw",
+    "metadataArr": [
+      "TV-MA",
+      "2019",
+      "1h 48m"
+    ],
+    "criticsScore": "38%",
+    "criticReviews": "74 Reviews",
+    "audienceScore": "94%",
+    "audienceVerifiedCount": "5,000+ Ratings",
+    "genres": [
+      "Drama",
+      "Biography",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/whitney_houston_i_wanna_dance_with_somebody",
+    "movieTitle": "Whitney Houston: I Wanna Dance with Somebody",
+    "movieDesc": "Discovered by record executive Clive Davis, Whitney Houston rises to fame in the 1980s to become one of the greatest singers of her generation.",
+    "movieImage": "https://resizing.flixster.com/pLoyCWSRDefSk-0qfAy6t1Zt4mU=/206x305/v2/https://resizing.flixster.com/6xmuDLr8iHznjPJyfW_FVxZbTl4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE2MmNhOWExLWI2ZmYtNDE4OC04YjM3LWMyYjIyMmI0OWYxZC5qcGc=",
+    "metadataArr": [
+      "PG-13",
+      "Released Dec 23 2022",
+      "2h 26m"
+    ],
+    "criticsScore": "43%",
+    "criticReviews": "136 Reviews",
+    "audienceScore": "92%",
+    "audienceVerifiedCount": "1,000+ Verified Ratings",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/walk_the_line",
+    "movieTitle": "Walk the Line",
+    "movieDesc": "The rise of country music legend Johnny Cash (Joaquin Phoenix) begins with his days as a boy growing up on the family farm, where he struggles under the scorn of his father (Robert Patrick). As the years pass, Cash ends up in Memphis, Tenn., with his wife, Vivian (Ginnifer Goodwin), and breaks into the music scene after finding his trademark sound. While on tour, Cash meets the love of his life, singer June Carter (Reese Witherspoon), but Cash's volatile lifestyle threatens to keep them apart.",
+    "movieImage": "https://resizing.flixster.com/Ryin6SnCAQ2Z8Nz2JjwTeCw4fw0=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p90361_p_v10_ax.jpg",
+    "metadataArr": [
+      "PG-13",
+      "Released Nov 18 2005",
+      "2h 16m"
+    ],
+    "criticsScore": "83%",
+    "criticReviews": "208 Reviews",
+    "audienceScore": "90%",
+    "audienceVerifiedCount": "250,000+ Ratings",
+    "genres": [
+      "Biography",
+      "History",
+      "Drama",
+      "Music",
+      "Romance"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/forever_my_girl",
+    "movieTitle": "Forever My Girl",
+    "movieDesc": "Liam Page is a country music superstar who left his bride Josie at the altar to pursue fame and fortune. Page never got over Josie, his one true love, or forgot his Southern roots in the small community where he was born and raised. Now, he must unexpectedly face the consequences of his actions when he returns to his hometown for the funeral of his best friend from high school.",
+    "movieImage": "https://resizing.flixster.com/tefID0-uMtDLngC9dwKhVV2zmk0=/206x305/v2/https://resizing.flixster.com/7Yvbi2u9llIwsfcATaSWG6_5ivQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ5OGM0MDhkLWMyYTEtNGE3OC1hM2U5LTc5NDk0MjY0MGRkOC53ZWJw",
+    "metadataArr": [
+      "PG",
+      "Released Jan 19 2018",
+      "1h 48m"
+    ],
+    "criticsScore": "25%",
+    "criticReviews": "53 Reviews",
+    "audienceScore": "78%",
+    "audienceVerifiedCount": "1,000+ Ratings",
+    "genres": [
+      "Romance",
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/1007657-footloose",
+    "movieTitle": "Footloose",
+    "movieDesc": "Moving in from Chicago, newcomer Ren McCormack (Kevin Bacon) is in shock when he discovers the small Midwestern town he now calls home has made dancing and rock music illegal. As he struggles to fit in, Ren faces an uphill battle to change things. With the help of his new friend, Willard Hewitt (Christopher Penn), and defiant teen Ariel Moore (Lori Singer), he might loosen up this conservative town. But Ariel's influential father, Reverend Shaw Moore (John Lithgow), stands in the way.",
+    "movieImage": "https://resizing.flixster.com/vlQdJj13jrtccqz5wczla6i5WyQ=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7623_p_v12_ar.jpg",
+    "metadataArr": [
+      "PG",
+      "Released Feb 17 1984",
+      "1h 47m"
+    ],
+    "criticsScore": "54%",
+    "criticReviews": "46 Reviews",
+    "audienceScore": "71%",
+    "audienceVerifiedCount": "250,000+ Ratings",
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/saturday_night_fever",
+    "movieTitle": "Saturday Night Fever",
+    "movieDesc": "Tony Manero (John Travolta) doesn't have much going for him during the weekdays. He still lives at home and works as a paint store clerk in his Brooklyn, N.Y., neighborhood. But he lives for the weekends, when he and his friends go to the local disco and dance the night away. When a big dance competition is announced, he wrangles the beautiful and talented Stephanie (Karen Lynn Gorney) to be his partner. As the two train for the big night, they start to fall for each other as well.",
+    "movieImage": "https://resizing.flixster.com/197E8pbeQgfyLnOYo3TpkhaTkTc=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p6323_p_v10_ap.jpg",
+    "metadataArr": [
+      "R",
+      "Released Dec 16 1977",
+      "1h 59m"
+    ],
+    "criticsScore": "82%",
+    "criticReviews": "55 Reviews",
+    "audienceScore": "71%",
+    "audienceVerifiedCount": "100,000+ Ratings",
+    "genres": [
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/unsung_hero",
+    "movieTitle": "Unsung Hero",
+    "movieDesc": "Based on a remarkable true story, Unsung Hero follows David Smallbone as he moves his family from Down Under to the States, searching for a brighter future after his successful music company collapses. With nothing more than their seven children, suitcases, and their love of music, David (for KING + COUNTRY's Joel Smallbone) and his pregnant wife Helen (Daisy Betts) set out to rebuild their lives. Helen's faith stands against all odds and inspires her husband and children to hold onto theirs. With their own dreams on hold, David and Helen begin to realize the musical prowess in their children, who would go on to become two of the most successful acts in Inspirational Music history: five-time GRAMMY Award®-winning artists for KING + COUNTRY and Rebecca St. James.",
+    "movieImage": "https://resizing.flixster.com/sUvzOOUhjn6v_WrnthI5PDwYtQg=/206x305/v2/https://resizing.flixster.com/etrRLqtxdhIUXe4ZY-XMdBlFBGE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JkNzM2MzYwLTFkMzAtNGI2ZS04NDczLWUyMDFjZWQ5OTE3My5qcGc=",
+    "metadataArr": [
+      "PG",
+      "Released Apr 26 2024",
+      "1h 52m"
+    ],
+    "criticsScore": "61%",
+    "criticReviews": "36 Reviews",
+    "audienceScore": "99%",
+    "audienceVerifiedCount": "1,000+ Verified Ratings",
+    "genres": [
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/waynes_world",
+    "movieTitle": "Wayne's World",
+    "movieDesc": "A big screen spin-off of the \"Saturday Night Live\" skit. Rob Lowe plays a producer that wants to take the public access \"Wayne's World\" to the world of commercial television. Wayne (Mike Myers) and Garth (Dana Carvey) battle to save their show and Wayne's girlfriend from Lowe.",
+    "movieImage": "https://resizing.flixster.com/cvQslVWUyDsFhG-o7Zsmqa4f3iE=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13779_p_v7_ao.jpg",
+    "metadataArr": [
+      "PG-13",
+      "Released Feb 14 1992",
+      "1h 35m"
+    ],
+    "criticsScore": "79%",
+    "criticReviews": "97 Reviews",
+    "audienceScore": "84%",
+    "audienceVerifiedCount": "250,000+ Ratings",
+    "genres": [
+      "Comedy",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/liza_a_truly_terrific_absolutely_true_story",
+    "movieTitle": "Liza: A Truly Terrific Absolutely True Story",
+    "movieDesc": "This star-studded tribute brings into focus the dazzling, complex period of Liza Minnelli's life starting in the 1970s, just after the tragic death of her mother Judy Garland--as she confronts a range of personal and professional challenges on the way to becoming a bona fide legend. Over these years, Liza seeks out extraordinary mentors: Kay Thompson, Fred Ebb, Charles Aznavour, Halston, and Bob Fosse. With insightful participation from a coterie of colleagues such as Michael Feinstein, Mia Farrow, Ben Vereen, Joel Grey and the late Chita Rivera, along with the revelatory participation by the star herself, the film illuminates the contradiction of Liza Minnelli: her privilege and struggle, strength and vulnerability, unreal expectations and towering talent--the friction of which fueled her stunning rise, resilience and her enduring place as one of the greatest, most original performers in the history of entertainment.",
+    "movieImage": "https://resizing.flixster.com/6i17WafuzJ-NWWEMJm-Y0Tyq0mA=/206x305/v2/https://resizing.flixster.com/guNIvRLXBKRG2a_iCdEZIkQmkz8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzJkNWFjMzc4LWJiM2MtNDE0Yy05NDQyLTJhMGM3YzM3OTA5Zi5qcGc=",
+    "metadataArr": [
+      "Released Jan 24",
+      "1h 44m"
+    ],
+    "criticsScore": "95%",
+    "criticReviews": "38 Reviews",
+    "audienceScore": "95%",
+    "audienceVerifiedCount": "100+ Ratings",
+    "genres": [
+      "Documentary",
+      "Biography",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/judy_2019",
+    "movieTitle": "Judy",
+    "movieDesc": "Thirty years after starring in \"The Wizard of Oz,\" beloved actress and singer Judy Garland arrives in London to perform sold-out shows at the Talk of the Town nightclub. While there, she reminisces with friends and fans and begins a whirlwind romance with musician Mickey Deans, her soon-to-be fifth husband.",
+    "movieImage": "https://resizing.flixster.com/dpPhGyNsZAHnaHkvkozfGqPQlmk=/206x305/v2/https://resizing.flixster.com/ntsRh9MEaCLfXO9WkcLVnmig_qk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzgyOTcxOGUwLTQwNTEtNGVkNC05ZWYzLWVhYTJhYzE1MTFkOC53ZWJw",
+    "metadataArr": [
+      "PG-13",
+      "Released Sep 27 2019",
+      "1h 58m"
+    ],
+    "criticsScore": "82%",
+    "criticReviews": "351 Reviews",
+    "audienceScore": "85%",
+    "audienceVerifiedCount": "5,000+ Verified Ratings",
+    "genres": [
+      "Biography",
+      "History",
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/music_by_john_williams",
+    "movieTitle": "Music by John Williams",
+    "movieDesc": "From his early days as a jazz pianist to his 54 Oscar® nominations and five wins, the documentary takes an in-depth look at Williams' countless contributions to film, including many iconic franchises, as well as his music for the concert stage and his impact on popular culture. The film features interviews with artists and filmmakers whose lives have been touched by his timeless music.",
+    "movieImage": "https://resizing.flixster.com/Yzpby35X04Ok85G7doIgU2U4kx4=/206x305/v2/https://resizing.flixster.com/_dlExpl0yS22JBNedDUyp-6ftHk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JkM2ZiMzcyLTRiMTEtNDM1OC05OTNhLTM3MGEwZWNlMWM5Zi5qcGc=",
+    "metadataArr": [
+      "PG",
+      "Released Nov 1 2024",
+      "1h 45m"
+    ],
+    "criticsScore": "100%",
+    "criticReviews": "47 Reviews",
+    "audienceScore": "97%",
+    "audienceVerifiedCount": "100+ Ratings",
+    "genres": [
+      "Documentary",
+      "Biography",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/stop_making_sense",
+    "movieTitle": "Stop Making Sense",
+    "movieDesc": "Filmmaker Jonathan Demme captures Talking Heads and an ecstatic ensemble of musicians at their exhilarating best in this iconic live performance.",
+    "movieImage": "https://resizing.flixster.com/ia1pMNhAsC7B7459ybc1ElXu96M=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p46235_p_v12_ab.jpg",
+    "metadataArr": [
+      "PG",
+      "Released Oct 18 1984",
+      "1h 28m"
+    ],
+    "criticsScore": "100%",
+    "criticReviews": "70 Reviews",
+    "audienceScore": "97%",
+    "audienceVerifiedCount": "5,000+ Ratings",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/all_eyez_on_me_2017",
+    "movieTitle": "All Eyez on Me",
+    "movieDesc": "The true and untold story of prolific rapper, actor, poet and activist Tupac Shakur (Demetrius Shipp Jr.), from his early days in New York to his status as one of the world's most recognized and influential voices. Against all odds, Shakur's raw talent, powerful lyrics and revolutionary mindset establish him as a cultural icon whose legacy continues to grow long after his death.",
+    "movieImage": "https://resizing.flixster.com/i3c53pAOoXVOFiFalO1TMgCtSnQ=/206x305/v2/https://resizing.flixster.com/9k-cI3TAWeC84RMIRCpBFc2xCgs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzFlNDlmZmM4LTAxYzAtNGFiZC1hMzIzLTQxMTIxNDk5MzZmNy53ZWJw",
+    "metadataArr": [
+      "R",
+      "Released Jun 16 2017",
+      "2h 20m"
+    ],
+    "criticsScore": "17%",
+    "criticReviews": "92 Reviews",
+    "audienceScore": "54%",
+    "audienceVerifiedCount": "10,000+ Ratings",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/taylor_swift_the_eras_tour",
+    "movieTitle": "TAYLOR SWIFT | THE ERAS TOUR",
+    "movieDesc": "The cultural phenomenon continues on the big screen! Immerse yourself in this once-in-a-lifetime concert film experience with a breathtaking, cinematic view of the history-making tour.",
+    "movieImage": "https://resizing.flixster.com/zSeqNzOSNE0U01uNnuwh4ZNFs80=/206x305/v2/https://resizing.flixster.com/REVQsA9Q1DgWr1Ew2owbUXuRWOA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzkzYTNiYzMyLWM3NzMtNGZhYS04YWYxLWM3ZmJhNjA1NmIyNi5qcGc=",
+    "metadataArr": [
+      "PG-13",
+      "Released Oct 13 2023",
+      "2h 48m"
+    ],
+    "criticsScore": "99%",
+    "criticReviews": "93 Reviews",
+    "audienceScore": "98%",
+    "audienceVerifiedCount": "2,500+ Verified Ratings",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/i_can_only_imagine_2018",
+    "movieTitle": "I Can Only Imagine",
+    "movieDesc": "Growing up in Greenville, Texas, Bart Millard suffers physical and emotional abuse at the hands of his father, Arthur. When Arthur becomes terminally ill, he finds redemption by embracing his faith and rediscovering his love for his son. Years later, Bart's troubled childhood and mended relationship with his dad inspires him to write the hit song I Can Only Imagine as singer of the Christian band MercyMe.",
+    "movieImage": "https://resizing.flixster.com/4iJHjRhzXKsis_nEWjFtTjgXEew=/206x305/v2/https://resizing.flixster.com/J2FKdkcvJNNCZQl0UiWGud6iF8g=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzljMWQ4MDYxLWEwOWItNGEyMy1hNmQ5LWZlMTZmNzg2Zjk2OS53ZWJw",
+    "metadataArr": [
+      "PG",
+      "Released Mar 16 2018",
+      "1h 50m"
+    ],
+    "criticsScore": "69%",
+    "criticReviews": "32 Reviews",
+    "audienceScore": "91%",
+    "audienceVerifiedCount": "2,500+ Ratings",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/song_to_song",
+    "movieTitle": "Song to Song",
+    "movieDesc": "Set against the Austin, Texas, music scene, two entangled couples -- struggling songwriters Faye (Rooney Mara) and BV (Ryan Gosling), and music mogul Cook (Michael Fassbender) and the waitress (Natalie Portman) whom he ensnares -- chase success through a rock 'n' roll landscape of seduction and betrayal.",
+    "movieImage": "https://resizing.flixster.com/1tUbxoSI_gupB7Udfz30ReTDOUU=/206x305/v2/https://resizing.flixster.com/rJkl1fRwr1WUOvk81DFJbdy4D6E=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2FmNWY0MjAxLWFiNTEtNGU1OS1iYTlmLTYzYjQyZmFiMTljNi53ZWJw",
+    "metadataArr": [
+      "R",
+      "Released Mar 17 2017",
+      "2h 9m"
+    ],
+    "criticsScore": "43%",
+    "criticReviews": "129 Reviews",
+    "audienceScore": "36%",
+    "audienceVerifiedCount": "5,000+ Ratings",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/blinded_by_the_light",
+    "movieTitle": "Blinded by the Light",
+    "movieDesc": "Javed is a Pakistani teenager who experiences racial and economic turmoil while living in Luton, England, in 1987. He writes poetry as a way to escape the intolerance of his hometown and the stubborn views of his traditional father. When a classmate introduces him to the music of Bruce Springsteeen, Javed sees parallels between the singer's powerful lyrics and his own working-class environment. Springsteen's melodies soon inspire Javed to find his own voice and follow his dreams.",
+    "movieImage": "https://resizing.flixster.com/PTP9UMzJC8dUREAroRsdfSprL5Q=/206x305/v2/https://resizing.flixster.com/5alIIqAAb_7wGWEBxBxNtPBkfTE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E4Zjc0ZWFlLWFhZTMtNGU1Yi04NmUwLTUzNDUyOWE4NmZlZi53ZWJw",
+    "metadataArr": [
+      "PG-13",
+      "Released Aug 16 2019",
+      "1h 54m"
+    ],
+    "criticsScore": "89%",
+    "criticReviews": "261 Reviews",
+    "audienceScore": "91%",
+    "audienceVerifiedCount": "2,500+ Verified Ratings",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/metal_lords",
+    "movieTitle": "Metal Lords",
+    "movieDesc": "Two kids want to start a heavy metal band in a high school where exactly two kids care about heavy metal. Hunter (Adrian Greensmith) is a diehard metal fan who knows his history and shreds. His dream is to win the upcoming Battle of the Bands. He enlists his best friend Kevin (Jaeden Martell) to man the drums. But with schoolmates more interested in Bieber than Black Sabbath, finding a bassist is a struggle. Until Kevin overhears Emily (Isis Hainsworth) playing her cello. The motley crew must contend with school, parents, hormones and teen angst while trying to get along long enough for Skullf*cker to win the Battle of the Bands.",
+    "movieImage": "https://resizing.flixster.com/69YGbF53x16uB8vWgdOyZDtrN08=/206x305/v2/https://resizing.flixster.com/zjSmTeqfATZrsbz5fIdmAjr3SfM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JlNzVmOTBhLWI3NmUtNGFhMy05MWU1LTkyYTRhMmM1NzAyYy5qcGc=",
+    "metadataArr": [
+      "R",
+      "2022",
+      "1h 38m"
+    ],
+    "criticsScore": "62%",
+    "criticReviews": "47 Reviews",
+    "audienceScore": "84%",
+    "audienceVerifiedCount": "500+ Ratings",
+    "genres": [
+      "Comedy",
+      "Music",
       "Drama"
     ]
   },
   {
-    "url": "https://www.rottentomatoes.com/m/godzilla_x_kong_the_new_empire",
-    "movieTitle": "Godzilla x Kong: The New Empire",
-    "movieDesc": "This latest entry in the Monsterverse franchise follows up the explosive showdown of Godzilla vs. Kong with an all-new cinematic adventure, pitting the almighty Kong and the fearsome Godzilla against a colossal undiscovered threat hidden within our world, challenging their very existence -- and our own. The epic new film will delve further into the histories of these Titans, their origins, and the mysteries of Skull Island and beyond, while uncovering the mythic battle that helped forge these extraordinary beings and tied them to humankind forever.",
+    "url": "https://www.rottentomatoes.com/m/amy_2015",
+    "movieTitle": "Amy",
+    "movieDesc": "Archival footage and personal testimonials present an intimate portrait of the life and career of British singer/songwriter Amy Winehouse.",
+    "movieImage": "https://resizing.flixster.com/L5hDNKjo3wQ7rsfzu9nnl4cMO9Y=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11780062_p_v13_af.jpg",
     "metadataArr": [
-      "PG-13",
-      "Released Mar 29 2024",
+      "R",
+      "Released Jul 3 2015",
+      "2h 8m"
+    ],
+    "criticsScore": "96%",
+    "criticReviews": "223 Reviews",
+    "audienceScore": "87%",
+    "audienceVerifiedCount": "10,000+ Ratings",
+    "genres": [
+      "Documentary",
+      "Biography",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/hustle_and_flow",
+    "movieTitle": "Hustle & Flow",
+    "movieDesc": "DJay (Terrence Howard) is a pimp living day to day on the tough streets of Memphis, Tennessee. Pushing 40, he's tired of the life he's living and dreams of something greater. When he meets up with an old friend who is now in the recording industry, he's inspired to turn his life around and uses his criminal life as an inspiration to create rap music. When he hears that a rap superstar is coming to town, Djay works a hustle to gain the rapper's attention and hopefully get signed by a label.",
+    "movieImage": "https://resizing.flixster.com/UjaQVxHjMX_zwzFXPW1YdC3nN-o=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p88695_p_v10_ap.jpg",
+    "metadataArr": [
+      "R",
+      "Released Jul 22 2005",
       "1h 55m"
     ],
-    "criticsScore": "54%",
-    "criticReviews": "249 Reviews",
-    "audienceScore": "89%",
-    "audienceVerifiedCount": "5,000+ Verified Ratings",
+    "criticsScore": "83%",
+    "criticReviews": "161 Reviews",
+    "audienceScore": "82%",
+    "audienceVerifiedCount": "100,000+ Ratings",
     "genres": [
-      "Sci-Fi",
-      "Action",
-      "Adventure"
+      "Drama",
+      "Music"
     ]
   },
   {
-    "url": "https://www.rottentomatoes.com/m/a_minecraft_movie",
-    "movieTitle": "A Minecraft Movie",
-    "movieDesc": "Welcome to the world of Minecraft, where creativity doesn't just help you craft, it's essential to one's survival! Four misfits--Garrett \"The Garbage Man\" Garrison (Jason Momoa), Henry (Sebastian Eugene Hansen), Natalie (Emma Myers) and Dawn (Danielle Brooks)--find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld: a bizarre, cubic wonderland that thrives on imagination. To get back home, they'll have to master this world (and protect it from evil things like Piglins and Zombies, too) while embarking on a magical quest with an unexpected, expert crafter, Steve (Jack Black). Together, their adventure will challenge all five to be bold and to reconnect with the qualities that make each of them uniquely creative... the very skills they need to thrive back in the real world.",
+    "url": "https://www.rottentomatoes.com/m/lords_of_chaos",
+    "movieTitle": "Lords of Chaos",
+    "movieDesc": "In 1987 Oslo, 17-year-old Euronymous becomes fixated on creating \"true Norwegian black metal\" with his band Mayhem. He mounts shocking publicity stunts to put the band's name on the map, but the lines between show and reality begin to blur.",
+    "movieImage": "https://resizing.flixster.com/ZXNdncG_XeQDt3vkK0hnRnUuufg=/206x305/v2/https://resizing.flixster.com/VisqTipPyVizCC85iT1kxPcFzGc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzNkNmMyNWVmLTVjN2YtNGRhZS1iYWNiLTg5MjA0OGQ3MWY0OC53ZWJw",
     "metadataArr": [
-      "PG",
-      "Now Playing",
+      "R",
+      "Released Feb 8 2019",
+      "1h 52m"
+    ],
+    "criticsScore": "73%",
+    "criticReviews": "73 Reviews",
+    "audienceScore": "62%",
+    "audienceVerifiedCount": "500+ Ratings",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/respect_2021",
+    "movieTitle": "Respect",
+    "movieDesc": "Following the rise of Aretha Franklin's career from a child singing in her father's church's choir to her international superstardom, RESPECT is the remarkable true story of the music icon's journey to find her voice.",
+    "movieImage": "https://resizing.flixster.com/dJOCxZ2Dd4BZEyW2nH3q3mkLcw0=/206x305/v2/https://resizing.flixster.com/CIDnLy8xMPImlgUlNaibPBcUB2Y=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzc2OTM1YmFhLTBmMGYtNGEzOC1iNTc3LTczMDRhZTUxNzlmNi5qcGc=",
+    "metadataArr": [
+      "PG-13",
+      "Released Aug 13 2021",
+      "2h 25m"
+    ],
+    "criticsScore": "68%",
+    "criticReviews": "191 Reviews",
+    "audienceScore": "95%",
+    "audienceVerifiedCount": "2,500+ Verified Ratings",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/sly_lives_aka_the_burden_of_black_genius",
+    "movieTitle": "SLY LIVES! (aka The Burden of Black Genius)",
+    "movieDesc": "\"SLY LIVES! (aka The Burden of Black Genius)\" examines the life and legacy of Sly & The Family Stone, the groundbreaking band led by the charismatic and enigmatic Sly Stone. The film captures the band's rise, reign and subsequent fadeout while shedding light on the unseen burden that comes with success for Black artists in America.",
+    "movieImage": "https://resizing.flixster.com/Uz4MptzisDie59USdZYjfazu69I=/206x305/v2/https://resizing.flixster.com/wZtiVTHt3j1b_X8WiF5mEWbMKBY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI0NzYyY2RkLTIxMjktNGE4MC04NmQxLTZkMGM2YzU3MjgxNy5qcGc=",
+    "metadataArr": [
+      "2025",
+      "1h 52m"
+    ],
+    "criticsScore": "92%",
+    "criticReviews": "38 Reviews",
+    "audienceScore": "75%",
+    "audienceVerifiedCount": "Fewer than 50 Ratings",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/luther_never_too_much",
+    "movieTitle": "Luther: Never Too Much",
+    "movieDesc": "The captivating story of Luther Vandross, from his early Sesame Street appearances to becoming the indisputable master of the love song. Using rare archives, Vandross shares his own story with insights from his closest collaborators.",
+    "movieImage": "https://resizing.flixster.com/bd7-S9rlgNKD5J5ZD2LeYSDzc7Y=/206x305/v2/https://resizing.flixster.com/lqrsWfAClH4dr2WP8NjccTUi8kw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E2NzNkOWM4LWFmNjItNDc4OS1iOGVhLTY1YjA2ZjVjMmFiYy5qcGc=",
+    "metadataArr": [
+      "Released Nov 1 2024",
       "1h 41m"
     ],
-    "criticsScore": "48%",
-    "criticReviews": "171 Reviews",
-    "audienceScore": "86%",
-    "audienceVerifiedCount": "10,000+ Verified Ratings",
+    "criticsScore": "98%",
+    "criticReviews": "41 Reviews",
+    "audienceScore": "98%",
+    "audienceVerifiedCount": "100+ Verified Ratings",
     "genres": [
-      "Kids & Family",
-      "Fantasy",
-      "Adventure",
-      "Comedy",
-      "Action"
+      "Documentary",
+      "Music",
+      "Biography"
     ]
   },
   {
-    "url": "https://www.rottentomatoes.com/m/gangers",
-    "movieTitle": "Gangers",
-    "movieDesc": "Saravanan, an undercover cop posing as a PT master, takes on ruthless criminals Malayarasan and Kottaiyarasan, uncovers a 100 crore scam by their brother Mudiyarasan, and forms a gang with school staff to bring them down.",
+    "url": "https://www.rottentomatoes.com/m/chevalier_2022",
+    "movieTitle": "Chevalier",
+    "movieDesc": "Inspired by the incredible true story of composer Joseph Bologne, Chevalier de Saint-Georges. The illegitimate son of an African slave and a French plantation owner, Bologne (Kelvin Harrison Jr. in a tour de force performance) rises to improbable heights in French society as a celebrated violinist-composer and fencer, complete with an ill-fated love affair and a falling out with Marie Antoinette (Lucy Boynton) and her court.",
+    "movieImage": "https://resizing.flixster.com/HaNZjws10QOHZ3OO2H9391OeKio=/206x305/v2/https://resizing.flixster.com/3gMSTQI6WwHFoBQdKg2fYM_71oE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ0YjdhNWI2LTRiM2MtNDBkOS1iN2MwLWQ1MjE1MzZkNTllYy5qcGc=",
     "metadataArr": [
-      "Now Playing",
-      "2h 39m"
+      "PG-13",
+      "Released Apr 21 2023",
+      "1h 47m"
     ],
-    "criticsScore": "No Rating",
-    "criticReviews": "2 Reviews",
-    "audienceScore": "No Rating",
+    "criticsScore": "76%",
+    "criticReviews": "166 Reviews",
+    "audienceScore": "96%",
+    "audienceVerifiedCount": "250+ Verified Ratings",
+    "genres": [
+      "Biography",
+      "History",
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/ennio",
+    "movieTitle": "Ennio",
+    "movieDesc": "A feature documentary directed by Giuseppe Tornatore about the life and work of legendary composer, Ennio Morricone, including interviews with renowned filmmakers and musicians, recordings from Morricone's acclaimed world concert tours, clips of classic films scored by Morricone and exclusive footage of scenes and places that have made up Morricone's life.",
+    "movieImage": "https://resizing.flixster.com/ZaPO5-ns-05TB0R7O79qDX9JByI=/206x305/v2/https://resizing.flixster.com/WG7fDN2YIk7fxBLeJ7UtFPhpjHw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzNjOTNjNjhiLTMwMzktNDQyZi1hOTljLWQ2ZDU2NzAzYWZlNS5qcGc=",
+    "metadataArr": [
+      "Released Feb 9 2024",
+      "2h 47m"
+    ],
+    "criticsScore": "91%",
+    "criticReviews": "54 Reviews",
+    "audienceScore": "95%",
+    "audienceVerifiedCount": "Fewer than 50 Ratings",
+    "genres": [
+      "Biography",
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/beatles_64",
+    "movieTitle": "Beatles '64",
+    "movieDesc": "On February 7, 1964, The Beatles arrived in New York City to unprecedented excitement and hysteria. From the instant they landed at Kennedy Airport, met by thousands of fans, Beatlemania swept New York and the entire country. Their thrilling debut performance on The Ed Sullivan Show captivated more than 73 million viewers, the most watched television event of its time. Beatles '64 presents the spectacle, but also tells a more intimate behind the scenes story, capturing the camaraderie of John, Paul, George, and Ringo as they experienced unimaginable fame.",
+    "movieImage": "https://resizing.flixster.com/wf4QPuEFanlLnStUU4G61jhju8A=/206x305/v2/https://resizing.flixster.com/ouiIocRp-2BYtpbALjXSlTMgRDU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Q5ZDQzNjcyLWE1ZDMtNGM4ZC05NTFkLWM4MTE1OWIwMjMxNi5qcGc=",
+    "metadataArr": [
+      "2024",
+      "1h 46m"
+    ],
+    "criticsScore": "95%",
+    "criticReviews": "58 Reviews",
+    "audienceScore": "81%",
+    "audienceVerifiedCount": "50+ Ratings",
+    "genres": [
+      "Biography",
+      "Documentary",
+      "History",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/summer_of_soul",
+    "movieTitle": "Summer of Soul (...Or, When the Revolution Could Not Be Televised)",
+    "movieDesc": "In his acclaimed debut as a filmmaker, Ahmir \"Questlove\" Thompson presents a powerful and transporting documentary-part music film, part historical record created around an epic event that celebrated Black history, culture and fashion. Over the course of six weeks in the summer of 1969, just one hundred miles south of Woodstock, The Harlem Cultural Festival was filmed in Mount Morris Park (now Marcus Garvey Park). The footage was never seen and largely forgotten--until now. SUMMER OF SOUL shines a light on the importance of history to our spiritual well-being and stands as a testament to the healing power of music during times of unrest, both past and present. The feature includes never-before-seen concert performances by Stevie Wonder, Nina Simone, Sly & the Family Stone, Gladys Knight & the Pips, Ray Baretto, Abbey Lincoln & Max Roach and more.",
+    "movieImage": "https://resizing.flixster.com/qPA9jF7Lly9pCR6N1cONXzc9am4=/206x305/v2/https://resizing.flixster.com/ruIr5zLe0YXUs3hivLdvZZIfQOI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzgwMzIxOWU2LTgxY2YtNGZkNi1iYWQwLTMxMWU1NGVhYzJiZS5qcGc=",
+    "metadataArr": [
+      "PG-13",
+      "Released Jul 2 2021",
+      "1h 57m"
+    ],
+    "criticsScore": "99%",
+    "criticReviews": "223 Reviews",
+    "audienceScore": "98%",
+    "audienceVerifiedCount": "100+ Verified Ratings",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/i_still_believe",
+    "movieTitle": "I Still Believe",
+    "movieDesc": "The true-life story of Christian music star Jeremy Camp and his journey of love and loss, which attempts to prove there is always hope.",
+    "movieImage": "https://resizing.flixster.com/fAzIXlA9vt7Llr6n9t6rkc8N4go=/206x305/v2/https://resizing.flixster.com/47dVT0NIiwT8UK3vdxogaMlt4Fk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ3N2Y4OTFmLTY2NDItNGFlYy1iYTg5LTIxOWM1OGQ3NmQzZi53ZWJw",
+    "metadataArr": [
+      "PG",
+      "Released Mar 13 2020",
+      "1h 55m"
+    ],
+    "criticsScore": "50%",
+    "criticReviews": "48 Reviews",
+    "audienceScore": "98%",
+    "audienceVerifiedCount": "1,000+ Verified Ratings",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Romance",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/juliet_naked",
+    "movieTitle": "Juliet, Naked",
+    "movieDesc": "Annie breaks up with her longtime boyfriend Duncan -- a teacher who's obsessed with former 1990s rocker Tucker Crowe. She soon develops an unexpected bond with Tucker when he visits his pregnant daughter in London.",
+    "movieImage": "https://resizing.flixster.com/xcMnQ9TpNOL0qZWiNAt7TTzx_-I=/206x305/v2/https://resizing.flixster.com/85Sszt6bqFBfSYMp5cCv-2Y3WdA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzNiNmFlMDBiLTMyZjYtNDBlZi04MTNkLTBiZDhjYTU1MDBkMC53ZWJw",
+    "metadataArr": [
+      "R",
+      "Released Aug 17 2018",
+      "1h 45m"
+    ],
+    "criticsScore": "82%",
+    "criticReviews": "170 Reviews",
+    "audienceScore": "74%",
+    "audienceVerifiedCount": "1,000+ Ratings",
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/vox_lux",
+    "movieTitle": "Vox Lux",
+    "movieDesc": "Celeste is a 13-year-old music prodigy who survives a horrific school shooting in Staten Island, N.Y., in 1999. Her talent shines through during the memorial service when she sings a song that touches the hearts of the mourners. Guided by her sister and a talent manager, the young phenom transforms into a rising pop star with a promising future. Eighteen years later, Celeste now finds herself on the comeback trail when a scandal, personal struggles and the pitfalls of fame threaten her career.",
+    "movieImage": "https://resizing.flixster.com/u5E8fUucDH6kmdkR96s0FDHhHWE=/206x305/v2/https://resizing.flixster.com/wEpPpbzLAhG5mBszKpNF45cabUk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzU0M2U1NDQ3LTIwNDYtNGM2OS1iOWVjLTVhOWU0ODljZDQyMC53ZWJw",
+    "metadataArr": [
+      "R",
+      "Released Dec 7 2018",
+      "1h 50m"
+    ],
+    "criticsScore": "62%",
+    "criticReviews": "253 Reviews",
+    "audienceScore": "36%",
+    "audienceVerifiedCount": "1,000+ Ratings",
+    "genres": [
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/nina_2016",
+    "movieTitle": "Nina",
+    "movieDesc": "Manager Clifton Henderson (David Oyelowo) helps singer and pianist Nina Simone (Zoe Saldana) rediscover her love for music.",
+    "movieImage": "https://resizing.flixster.com/KiVSukW3JbprgY0P3NevtoVvfIc=/206x305/v2/https://resizing.flixster.com/30kjmmJWnfju7RNvoPFwCW0SMIA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzgyOGNlYmNmLTg3NzctNGJkNC1hNzY2LWMyN2IxZGI3M2EyNi53ZWJw",
+    "metadataArr": [
+      "Released Apr 22 2016",
+      "1h 30m"
+    ],
+    "criticsScore": "2%",
+    "criticReviews": "41 Reviews",
+    "audienceScore": "25%",
+    "audienceVerifiedCount": "250+ Ratings",
+    "genres": [
+      "Biography",
+      "History",
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/the_klezmer_project",
+    "movieTitle": "The Klezmer Project",
+    "movieDesc": "A Jewish wedding cameraman falls in love with a klezmer clarinetist and pretends to be making a documentary in order to spend time with her. His fake project leads to a real journey through Eastern Europe in search of lost klezmer melodies and the remnants of Yiddish culture. A documentary-fiction hybrid. Winner of the Best First Feature Award at the Berlin Film Festival.",
+    "movieImage": "https://resizing.flixster.com/hGAZ4nGQroJhd6gbisln1ZXJTMQ=/206x305/v2/https://resizing.flixster.com/sRqWtMgu31Q1iRqwYuaLvYCCRP0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdkMWFhZTRiLTg0NGItNGIwYy04ZDE1LTU1NGYyMWFlYWUzYS5qcGc=",
+    "metadataArr": [
+      "Released Feb 25",
+      "1h 57m"
+    ],
+    "criticsScore": "100%",
+    "criticReviews": "7 Reviews",
+    "audienceScore": "99%",
+    "audienceVerifiedCount": "250+ Ratings",
+    "genres": [
+      "Documentary",
+      "Music",
+      "Adventure",
+      "Drama"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/blaze_2018",
+    "movieTitle": "Blaze",
+    "movieDesc": "A reimagining of the life and times of Blaze Foley, the unsung songwriting legend of the Texas Outlaw Music movement.",
+    "movieImage": "https://resizing.flixster.com/gii20kRQW9l0VC1-GsrtGU2fBzk=/206x305/v2/https://resizing.flixster.com/i2dumtQvt577cyZn8E2BcqSFNHA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzg5M2FiY2Q4LTM1ZmYtNDE0Ni04NzIyLTA2NjUxMTdlYzA1ZS53ZWJw",
+    "metadataArr": [
+      "R",
+      "Released Aug 17 2018",
+      "2h 7m"
+    ],
+    "criticsScore": "95%",
+    "criticReviews": "94 Reviews",
+    "audienceScore": "67%",
+    "audienceVerifiedCount": "500+ Ratings",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/england_is_mine",
+    "movieTitle": "England Is Mine",
+    "movieDesc": "Talented teenage singer Steven Patrick Morrissey forms a band in Manchester, England, in the 1970s. Inspired by his mother and a young painter, Morrissey continues to pursue his dream of rock 'n' roll stardom.",
+    "movieImage": "https://resizing.flixster.com/Ch7tDLHfJPz42GYshxutnnD94Js=/206x305/v2/https://resizing.flixster.com/3VX3fZoHLIGOd7KqazTrr2Cvk-0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzhhN2RlODQ2LThiYWEtNDFlYS05NTg5LTEyYjFmNjQ2MDk4ZC53ZWJw",
+    "metadataArr": [
+      "Released Aug 25 2017",
+      "1h 39m"
+    ],
+    "criticsScore": "54%",
+    "criticReviews": "63 Reviews",
+    "audienceScore": "36%",
+    "audienceVerifiedCount": "250+ Ratings",
+    "genres": [
+      "Biography",
+      "History",
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/wild_rose_2019",
+    "movieTitle": "Wild Rose",
+    "movieDesc": "Fresh out of prison, a Scottish woman juggles her job and two children while pursuing her dream of becoming a country music star. She soon gets her chance when she travels to Nashville, Tenn., on a life-changing journey to discover her true voice.",
+    "movieImage": "https://resizing.flixster.com/3kgaIC_nMlLxnwcq-jrba5mopLs=/206x305/v2/https://resizing.flixster.com/v0CbldznpTiP1FzCUVHiRpEhxy4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2MyOTZhNTk1LTRjMDUtNGM4OC1hMjhlLTgwZWE2NWE3NGQ3OS53ZWJw",
+    "metadataArr": [
+      "R",
+      "Released Jun 21 2019",
+      "1h 41m"
+    ],
+    "criticsScore": "92%",
+    "criticReviews": "195 Reviews",
+    "audienceScore": "87%",
+    "audienceVerifiedCount": "100+ Verified Ratings",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/florence_foster_jenkins_2016",
+    "movieTitle": "Florence Foster Jenkins",
+    "movieDesc": "In the 1940s, New York socialite Florence Foster Jenkins (Meryl Streep) dreams of becoming a great opera singer. Unfortunately, her ambition far exceeds her talent. The voice Florence hears in her head is beautiful, but to everyone else it is quite lousy. Her husband St. Clair goes to extreme lengths to make sure his wife never finds out how awful she truly is. When Florence announces her plans for a concert at Carnegie Hall, St. Clair soon realizes that he's facing his greatest challenge yet.",
+    "movieImage": "https://resizing.flixster.com/KtGvnZHh6zPck_VtY-nRac7OCz8=/206x305/v2/https://resizing.flixster.com/O1MYySwEJlKzDFAV7YStiVMbwQc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzhkYTcyMDE0LTYwNDMtNDFiNi1iMTZhLTcwNThhOWY5YmQxZi53ZWJw",
+    "metadataArr": [
+      "PG-13",
+      "Released Aug 12 2016",
+      "1h 50m"
+    ],
+    "criticsScore": "87%",
+    "criticReviews": "236 Reviews",
+    "audienceScore": "68%",
+    "audienceVerifiedCount": "10,000+ Ratings",
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/sylvies_love",
+    "movieTitle": "Sylvie's Love",
+    "movieDesc": "In Sylvie’s Love, the jazz is smooth and the air sultry in the hot New York summer of 1957. Robert (Nnamdi Asomugha), a saxophonist, spends late nights playing behind a less-talented but well-known bandleader, as member of a jazz quartet. Sylvie (Tessa Thompson), who dreams of a career in television, spends her summer days helping around her father’s record store, as she waits for her fiancé to return from war. When Robert takes a part-time job at the record store, the two begin a friendship that sparks a deep passion in each of them unlike anything they have felt before. As the summer winds down, life takes them in different directions, bringing their relationship to an end. Years pass, Sylvie’s career as a TV producer blossoms, while Robert has to come to terms with what the age of Motown is doing to the popularity of Jazz. In a chance meeting, Sylvie and Robert cross paths again, only to find that while their lives have changed, their feelings for each other remain the same. Writer/director Eugene Ashe combines romance and music into a sweeping story that brings together changing times, a changing culture, and the true price of love.",
+    "movieImage": "https://resizing.flixster.com/32cQLelfXzCnCuYq3SSomrvJb8Q=/206x305/v2/https://resizing.flixster.com/3vowzxl_94jBjxlkzUu0OaD4FA8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Y3MGI2OGM4LWY5OTgtNDQxYS1hNjY4LWNmOTViMTQ2YzkyNi5qcGc=",
+    "metadataArr": [
+      "PG-13",
+      "2020",
+      "1h 54m"
+    ],
+    "criticsScore": "94%",
+    "criticReviews": "126 Reviews",
+    "audienceScore": "76%",
+    "audienceVerifiedCount": "250+ Ratings",
+    "genres": [
+      "Romance",
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/the_high_note",
+    "movieTitle": "The High Note",
+    "movieDesc": "Maggie is the overworked personal assistant to Grace Davis, a superstar singer whose talent and ego have reached unbelievable heights. Stuck running errands, Maggie still wants to fulfill her childhood dream of becoming a music producer. But when Grace's manager presents her with a choice that could alter the course of her career, Maggie and Grace come up with a plan that could change both of their lives forever.",
+    "movieImage": "https://resizing.flixster.com/KJgY_AF98jSArNNpD4XlpyBaMRA=/206x305/v2/https://resizing.flixster.com/Az1pRF3RqohLiCzzBelaILI-UnU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBlNjdjMTMxLTI3NzItNGIwYS1hN2Q1LWU0MzNhN2E1MTVlOC53ZWJw",
+    "metadataArr": [
+      "PG-13",
+      "2020",
+      "1h 53m"
+    ],
+    "criticsScore": "71%",
+    "criticReviews": "191 Reviews",
+    "audienceScore": "74%",
+    "audienceVerifiedCount": "500+ Ratings",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/billie_eilish_the_worlds_a_little_blurry",
+    "movieTitle": "Billie Eilish: The World's a Little Blurry",
+    "movieDesc": "\"Billie Eilish: The World's A Little Blurry\" tells the true coming-of-age story of the singer-songwriter and her rise to global superstardom. From award-winning filmmaker R.J. Cutler, the documentary offers a deeply intimate look at this extraordinary teenager's journey, at just 17 years old, navigating life on the road, on stage, and at home with her family, while writing, recording and releasing her debut album \"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?\"",
+    "movieImage": "https://resizing.flixster.com/0ZgIYdOvdWXw3jbklEf4pcEVvVA=/206x305/v2/https://resizing.flixster.com/f0ikeTs0lza6xli5cRaiLmrRUEw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzczYmMyYjZlLTdmNDYtNDkwOS04MzFmLWQ0ZGVjZGZkMDgzNi5qcGc=",
+    "metadataArr": [
+      "R",
+      "Released Feb 26 2021",
+      "2h 21m"
+    ],
+    "criticsScore": "96%",
+    "criticReviews": "99 Reviews",
+    "audienceScore": "95%",
+    "audienceVerifiedCount": "500+ Ratings",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/everybodys_everything",
+    "movieTitle": "Everybody's Everything",
+    "movieDesc": "Creating a unique mix of punk, emo and trap, Lil Peep is set to bring a new musical genre to the mainstream when he dies of a drug overdose at just 21 years old.",
+    "movieImage": "https://resizing.flixster.com/iRsphSmjr8E97SZMDsz0PRMhelQ=/206x305/v2/https://resizing.flixster.com/R2jWf4KnAhNc5vPLxGFF_bANcX4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI3NDRiYTdmLWFiZDctNGY3Ni05MjZkLTM3Y2JlM2EyN2RjZi53ZWJw",
+    "metadataArr": [
+      "Released Nov 15 2019",
+      "1h 56m"
+    ],
+    "criticsScore": "100%",
+    "criticReviews": "21 Reviews",
+    "audienceScore": "99%",
+    "audienceVerifiedCount": "100+ Verified Ratings",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/rock_dog",
+    "movieTitle": "Rock Dog",
+    "movieDesc": "For the Tibetan mastiffs on Snow Mountain, a dog's life has a simple riff -- guard a peaceful village of sheep from the thuggish wolf Linnux and his rabid pack. To avoid distractions, mastiff leader Khampa forbids all music. However, when his son Bodi discovers a radio that fell from the sky, it takes just a few guitar licks for the lad's fate to be sealed. Wanting to be a rock 'n' roll star, Bodi heads to the city to locate Angus Scattergood, a legendary musician who needs to write a new song.",
+    "movieImage": "https://resizing.flixster.com/h_aFBBf65i7DgcaqoqVZ_Yy4xTc=/206x305/v2/https://resizing.flixster.com/DDMb2vNV6EB4-2PpPpsVR-d7nhM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2RjNTA1MGU4LWYxZGQtNDJmOC04YTcyLWE0NDA3NmQ3ZjE0MC53ZWJw",
+    "metadataArr": [
+      "PG",
+      "Released Feb 24 2017",
+      "1h 30m"
+    ],
+    "criticsScore": "47%",
+    "criticReviews": "55 Reviews",
+    "audienceScore": "48%",
+    "audienceVerifiedCount": "2,500+ Ratings",
+    "genres": [
+      "Kids & Family",
+      "Comedy",
+      "Adventure",
+      "Music",
+      "Animation"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/echo_in_the_canyon",
+    "movieTitle": "Echo in the Canyon",
+    "movieDesc": "A look at how musical groups such as The Byrds, The Beach Boys, Buffalo Springfield, and The Mamas & the Papas birthed the beginnings of the Laurel Canyon music scene and how the echo of these artists' creations reverberated across the world.",
+    "movieImage": "https://resizing.flixster.com/opvbWaptDItfrxr5zuK5r-R9Uyw=/206x305/v2/https://resizing.flixster.com/a-kAdrBhfcW10OnxwbSL_IjX-2Q=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzIxZDI3ODdkLTIxOGYtNDY4MS05NzY4LTE1ZmJjYTE1MmZkZi53ZWJw",
+    "metadataArr": [
+      "PG-13",
+      "Released May 24 2019",
+      "1h 22m"
+    ],
+    "criticsScore": "89%",
+    "criticReviews": "79 Reviews",
+    "audienceScore": "92%",
+    "audienceVerifiedCount": "250+ Verified Ratings",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/hearts_beat_loud",
+    "movieTitle": "Hearts Beat Loud",
+    "movieDesc": "In the hip Brooklyn neighborhood of Red Hook, single dad and record store owner Frank is preparing to send his hard-working daughter Sam off to college while being forced to close his vintage shop. Hoping to stay connected through their shared musical passions, Frank urges Sam to turn their weekly jam sessions into a father-daughter live act. After their first song becomes an internet breakout, the two embark on a journey of love, growing up and musical discovery.",
+    "movieImage": "https://resizing.flixster.com/qNIeNVVeUhx55F8w2n8CW27_d5k=/206x305/v2/https://resizing.flixster.com/V8svIRYUhfc0hlgpgQ0NBC8v6Jc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YyYjFiZTIyLTViNmItNDE5OS04NmViLTJkMDYyMGQ1ZTdhMi53ZWJw",
+    "metadataArr": [
+      "PG-13",
+      "Released Jun 8 2018",
+      "1h 37m"
+    ],
+    "criticsScore": "92%",
+    "criticReviews": "161 Reviews",
+    "audienceScore": "74%",
+    "audienceVerifiedCount": "1,000+ Ratings",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/the_polka_king",
+    "movieTitle": "The Polka King",
+    "movieDesc": "The rise and fall of Pennsylvania polka sensation Jan Lewan, who ultimately fleeced millions from investors through his polka-related activities.",
+    "movieImage": "https://resizing.flixster.com/7Z6dEjHq3vdPUCpBx2hhLe-ueU4=/206x305/v2/https://resizing.flixster.com/hoJ1d1wCcIN5RKkzLQFSFIOkugo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2VmOWU5ZGRiLTJmYjItNGUxNy1hMjEyLTRiY2MxZWRkNmJlMy53ZWJw",
+    "metadataArr": [
+      "2017",
+      "1h 35m"
+    ],
+    "criticsScore": "66%",
+    "criticReviews": "35 Reviews",
+    "audienceScore": "50%",
+    "audienceVerifiedCount": "250+ Ratings",
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/moonage_daydream",
+    "movieTitle": "Moonage Daydream",
+    "movieDesc": "MOONAGE DAYDREAM: a cinematic odyssey exploring Bowie's creative, spiritual and musical journey. From the visionary mind of Brett Morgen, Moonage Daydream features captivating, never-before-seen footage and performances spanning David Bowie's 54-year career. The film includes 40 exclusively remastered Bowie songs and is the first film ever sanctioned by the Bowie Estate, with local access to the artists' archives.",
+    "movieImage": "https://resizing.flixster.com/ajzDc6pDixOjRpuaZjeS1_9z_9s=/206x305/v2/https://resizing.flixster.com/1RvVvRT_yIkZpE6CiOdcmXaLjDk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRiMGFiMmJmLWQxZTgtNDhjOC1hMzM0LWE0MGMyNzNlZTM2ZC5qcGc=",
+    "metadataArr": [
+      "PG-13",
+      "Released Sep 23 2022",
+      "2h 14m"
+    ],
+    "criticsScore": "92%",
+    "criticReviews": "166 Reviews",
+    "audienceScore": "75%",
+    "audienceVerifiedCount": "500+ Ratings",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/a_nonsense_christmas_with_sabrina_carpenter",
+    "movieTitle": "A Nonsense Christmas with Sabrina Carpenter",
+    "movieDesc": "Pop icon Sabrina Carpenter jingles all the bells in her first-ever variety music special full of Christmas hits, unexpected duets and comedic cameos.",
+    "movieImage": "https://resizing.flixster.com/M-iDW4Xl5s8b1Sa6S8L0vqT7xcc=/206x305/v2/https://resizing.flixster.com/a4qA8_9dVfTZXeJqa79T_20l6gE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzA4NGZlMTBlLWQ4MjctNDIwNC04OGE3LWJlNzUwYjZlOTQ0OC5qcGc=",
+    "metadataArr": [
+      "2024",
+      "50m"
+    ],
+    "criticsScore": "100%",
+    "criticReviews": "7 Reviews",
+    "audienceScore": "70%",
+    "audienceVerifiedCount": "100+ Ratings",
+    "genres": [
+      "Holiday",
+      "Music",
+      "Variety"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/her_smell",
+    "movieTitle": "Her Smell",
+    "movieDesc": "Becky Something is a talented but self-destructive musician who seems determined to alienate everyone around her -- even at the cost of her own band's success.",
+    "movieImage": "https://resizing.flixster.com/yDs8Ef02jhL0q98-jC8b39eUJ3A=/206x305/v2/https://resizing.flixster.com/FeWf3wiFrrLwj-RSj6V9eokshzg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZmN2RiMzk5LTZkMTEtNDI3OC05NWU0LWMwNWFlM2Q5OTk3OC53ZWJw",
+    "metadataArr": [
+      "R",
+      "Released Apr 12 2019",
+      "2h 15m"
+    ],
+    "criticsScore": "83%",
+    "criticReviews": "138 Reviews",
+    "audienceScore": "44%",
+    "audienceVerifiedCount": "250+ Ratings",
+    "genres": [
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/the_velvet_underground_2021",
+    "movieTitle": "The Velvet Underground",
+    "movieDesc": "The Velvet Underground created a new sound that changed the world of music, cementing its place as one of rock 'n' roll's most revered bands. Directed by acclaimed filmmaker Todd Haynes, \"The Velvet Underground\" shows just how the group became a cultural touchstone representing a range of contradictions: the band is both of their time, yet timeless; literary yet realistic; rooted in high art and street culture. The film features in-depth interviews with the key players of that time combined with a treasure trove of never-before-seen performances and a rich collection of recordings, Warhol films, and other experimental art that creates an immersive experience into what founding member John Cale describes as the band's creative ethos: \"how to be elegant and how to be brutal.\"",
+    "movieImage": "https://resizing.flixster.com/A2v9K2j53EkbFmQWnUeSO0yJxe0=/206x305/v2/https://resizing.flixster.com/fJ9VwMG_AQVoorOh3BHxdPXwSHo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzM4NzczNmNkLWM4YjMtNDYxNS1iMGM2LTU3MDRlMTRkNzdkMC5wbmc=",
+    "metadataArr": [
+      "R",
+      "Now Playing",
+      "1h 50m"
+    ],
+    "criticsScore": "98%",
+    "criticReviews": "134 Reviews",
+    "audienceScore": "80%",
+    "audienceVerifiedCount": "100+ Ratings",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/the_sparks_brothers",
+    "movieTitle": "The Sparks Brothers",
+    "movieDesc": "How can one rock band be successful, underrated, hugely influential, and criminally overlooked all at the same time? Edgar Wright's debut documentary THE SPARKS BROTHERS, which features commentary from celebrity fans Flea, Beck, Jack Antonoff, Jason Schwartzman, Neil Gaiman, and more, takes audiences on a musical odyssey through five weird and wonderful decades with brothers/bandmates Ron and Russell Mael celebrating the inspiring legacy of Sparks: your favorite band's favorite band.",
+    "movieImage": "https://resizing.flixster.com/-I9SLItTPm2gF1d-FtN_N4Y6Chw=/206x305/v2/https://resizing.flixster.com/XEqx_4qBbr5F0a46KIRccOPP_DA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzFmNDJjMmFhLTYwYTEtNDE5OC04NmFmLTM4NzBlODIyYTQ4Yy5qcGc=",
+    "metadataArr": [
+      "R",
+      "Released Jun 18 2021",
+      "2h 21m"
+    ],
+    "criticsScore": "95%",
+    "criticReviews": "164 Reviews",
+    "audienceScore": "98%",
+    "audienceVerifiedCount": "100+ Verified Ratings",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/the_beach_boys",
+    "movieTitle": "The Beach Boys",
+    "movieDesc": "\"The Beach Boys,\" which streams on Disney+ beginning May 24, 2024, is a celebration of the legendary band that revolutionized pop music, and the iconic, harmonious sound they created that personified the California dream, captivating fans for generations and generations to come. The documentary traces the band from humble family beginnings and features never-before-seen footage and all-new interviews with The Beach Boys' Brian Wilson, Mike Love, Al Jardine, David Marks, Bruce Johnston, plus other luminaries in the music business, including Lindsey Buckingham, Janelle Monae, Ryan Tedder, and Don Was. Viewers will also hear from the group's Carl and Dennis Wilson in their own words, plus view a new interview with Blondie Chaplin and hear audio from Ricky Fataar.",
+    "movieImage": "https://resizing.flixster.com/iCcieEEZMZ6x6ekyMfWHsCBUIN4=/206x305/v2/https://resizing.flixster.com/Z1pDQkNBEWNg3CBbHceb2xqO6XY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2RlYTRiOTM3LTJlYzUtNDhiNi04ZTE1LTUzZTNmYTU1NDg0OC5qcGc=",
+    "metadataArr": [
+      "PG-13",
+      "Released May 21 2024",
+      "1h 53m"
+    ],
+    "criticsScore": "89%",
+    "criticReviews": "53 Reviews",
+    "audienceScore": "81%",
+    "audienceVerifiedCount": "50+ Ratings",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/diane_warren_relentless",
+    "movieTitle": "Diane Warren: Relentless",
+    "movieDesc": "Diane Warren: Relentless is a groundbreaking documentary that reveals the unique genius of a woman who has shaped an entire generation of music. Having written over 400 songs for iconic artists such as Beyoncé, Taylor Swift, Celine Dione, Lady Gaga, Whitney Houston, Britney Spears, and Aerosmith, Diane Warren resides in the pantheon of music greats. This is her untold story.",
+    "movieImage": "https://resizing.flixster.com/agu_MEFIjVEgxhrHhq2DtJOWZd4=/206x305/v2/https://resizing.flixster.com/QReZ4TO5NgPecf-GHizaOfk0Ekw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ExMjU2YjQ3LWEyYjEtNDE5YS05MjgyLTVhZGRhYzRiMWNhYy5qcGc=",
+    "metadataArr": [
+      "Released Jan 10",
+      "1h 31m"
+    ],
+    "criticsScore": "84%",
+    "criticReviews": "19 Reviews",
+    "audienceScore": "76%",
+    "audienceVerifiedCount": "Fewer than 50 Ratings",
+    "genres": [
+      "Documentary",
+      "Music",
+      "Biography"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/teen_spirit_2019",
+    "movieTitle": "Teen Spirit",
+    "movieDesc": "A shy teenager dreams of escaping her small town and pursuing her passion to sing. With the help of an unlikely mentor, she enters a local singing competition that will test her integrity, talent and ambition.",
+    "movieImage": "https://resizing.flixster.com/eSw8FTHesBdmw0om8TuYUq3BWMg=/206x305/v2/https://resizing.flixster.com/QjBa4Nvi_Kycd6Z-USwi2rgqzEE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZlMGVkZThiLTQ4NmItNDljOS04YjU5LTNmODFhMGMzODY1NC53ZWJw",
+    "metadataArr": [
+      "PG-13",
+      "Released Apr 19 2019",
+      "1h 32m"
+    ],
+    "criticsScore": "73%",
+    "criticReviews": "131 Reviews",
+    "audienceScore": "56%",
+    "audienceVerifiedCount": "250+ Ratings",
+    "genres": [
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/the_nowhere_inn",
+    "movieTitle": "The Nowhere Inn",
+    "movieDesc": "From real-life friends Annie Clark (a.k.a. GRAMMY award-winning recording and touring artist St. Vincent) and Carrie Brownstein (Portlandia, Sleater-Kinney) comes the metafictional account of two creative forces banding together to make a documentary about St. Vincent's music, touring life, and on-stage persona. But they quickly discover unpredictable forces lurking within subject and filmmaker that threaten to derail the friendship, the project, and the duo's creative lives.",
+    "movieImage": "https://resizing.flixster.com/QwVbLLt6BIVVqgj06nbUfhqOVqw=/206x305/v2/https://resizing.flixster.com/h0scRITCQ5baopHxfG9gzUahXgU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzNhMjM1ZGZlLTc4ZTctNGNiZi04Nzc4LWU1NTQwMDQ0NjIyNy5qcGc=",
+    "metadataArr": [
+      "Released Sep 17 2021",
+      "1h 32m"
+    ],
+    "criticsScore": "67%",
+    "criticReviews": "51 Reviews",
+    "audienceScore": "74%",
+    "audienceVerifiedCount": "50+ Ratings",
+    "genres": [
+      "Comedy",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/tina",
+    "movieTitle": "Tina",
+    "movieDesc": "With a wealth of never-before-seen footage, audio tapes, personal photos, and new interviews, including with the singer herself, TINA presents an unvarnished and dynamic account of the life and career of music icon Tina Turner. Everything changed when Tina began telling her story, a story of trauma and survival, that gave way to a rebirth as the record-breaking queen of rock 'n' roll. But behind closed doors, the singer struggled with the survivor narrative that meant her past was never fully behind her. Directed by Dan Lindsay and T.J. Martin, the documentary charts Tina Turner's early fame, the private and public personal and professional struggles, and her return to the world stage as a global phenomenon in the 1980s.",
+    "movieImage": "https://resizing.flixster.com/JNBRkCkrR1saK-6cTgio7U_JUrk=/206x305/v2/https://resizing.flixster.com/azWnDaen3fNIehUDrGT_d82UoFI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzFlYWQyM2EwLTZhN2MtNGNlZS1hN2UzLWJlMzlmMDZjNjAyNC5qcGc=",
+    "metadataArr": [
+      "2021",
+      "1h 58m"
+    ],
+    "criticsScore": "92%",
+    "criticReviews": "92 Reviews",
+    "audienceScore": "91%",
+    "audienceVerifiedCount": "100+ Ratings",
+    "genres": [
+      "Documentary",
+      "Biography",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/clouds_2020",
+    "movieTitle": "Clouds",
+    "movieDesc": "Teenager Zach Sobiech forms the music group A Firm Handshake and records the inspirational hit single \"Clouds.\"",
+    "movieImage": "https://resizing.flixster.com/dRGUn4SfZpY_6v7uDCnLQPJe7ao=/206x305/v2/https://resizing.flixster.com/sZuyIqTYRtOsqMEDf1hGeyyj60A=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZjYzc5ZmFlLWMxMTMtNDcxOC1hZDQyLWE5ZWMzYTk0MDRmMC53ZWJw",
+    "metadataArr": [
+      "PG-13",
+      "2020",
+      "2h 1m"
+    ],
+    "criticsScore": "83%",
+    "criticReviews": "23 Reviews",
+    "audienceScore": "88%",
+    "audienceVerifiedCount": "250+ Ratings",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/nothing_compares",
+    "movieTitle": "Nothing Compares",
+    "movieDesc": "NOTHING COMPARES is the story of Sinéad O'Connor's phenomenal rise to worldwide fame and how her iconoclastic personality resulted in her exile from the pop mainstream. Focusing on her prophetic words and deeds from 1987-1993, the film reflects on the legacy of this fearless artist through a contemporary feminist lens.",
+    "movieImage": "https://images.fandango.com/cms/assets/5d84d010-59b1-11ea-b175-791e911be53d--rt-poster-defaultgif.gif",
+    "metadataArr": [
+      "Released Sep 23 2022",
+      "1h 37m"
+    ],
+    "criticsScore": "99%",
+    "criticReviews": "88 Reviews",
+    "audienceScore": "87%",
+    "audienceVerifiedCount": "50+ Ratings",
+    "genres": [
+      "Biography",
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/the_united_states_vs_billie_holiday",
+    "movieTitle": "The United States vs. Billie Holiday",
+    "movieDesc": "The legendary Billie Holiday, one of the greatest jazz musicians of all time, spent much of her career being adored by fans across the globe, all while the Federal Department of Narcotics targeted her with an undercover sting operation led by black Federal Agent Jimmy Fletcher, with whom she had a tumultuous affair. Inspired by her life story, THE UNITED STATES VS. BILLIE HOLIDAY intimately examines her struggles with addiction, fame and heartbreaking love.",
+    "movieImage": "https://resizing.flixster.com/M5REdIZ81P9ZbigKrHwRzjpgKkk=/206x305/v2/https://resizing.flixster.com/whorqRwG5PKewrz3sOsRw_lZE50=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRmYjFmODAyLTM2YTQtNGQyOS1hN2E5LTZjMjhmNjg4ODBkMy5qcGc=",
+    "metadataArr": [
+      "R",
+      "2021",
+      "2h 10m"
+    ],
+    "criticsScore": "55%",
+    "criticReviews": "188 Reviews",
+    "audienceScore": "79%",
+    "audienceVerifiedCount": "500+ Ratings",
+    "genres": [
+      "History",
+      "Drama",
+      "Biography",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/i_am_woman",
+    "movieTitle": "I Am Woman",
+    "movieDesc": "In 1966, single-mother Helen Reddy leaves her old life in Australia for New York and stardom, only to find that the industry doesn't take her seriously.",
+    "movieImage": "https://resizing.flixster.com/4RFyHIOI5fEteWfMoyAjuFJ9QY0=/206x305/v2/https://resizing.flixster.com/cCv5mj8QXYmG01YjGA8shcVpW8g=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdlNDQ3OWVkLWJmYzAtNDNlZi04Mjk1LTZkMTJhOGU5MjZhZC53ZWJw",
+    "metadataArr": [
+      "Released Sep 11 2020",
+      "1h 57m"
+    ],
+    "criticsScore": "66%",
+    "criticReviews": "80 Reviews",
+    "audienceScore": "65%",
+    "audienceVerifiedCount": "50+ Ratings",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/catching_fire_the_story_of_anita_pallenberg",
+    "movieTitle": "Catching Fire: The Story of Anita Pallenberg",
+    "movieDesc": "Anita Pallenberg was at many points in her life a newspaper headline: a \"rock n' roll goddess,\" a \"voodoo priestess,\" and an \"evil seductress.\" She was accused of trying to break up the Rolling Stones, among other things. But those who loved her considered her an exciting cultural force, and a loving mother -- and innocent of the accusations. Never-seen-before home movies and family photographs explore life with the Rolling Stones and tell a bittersweet tale of both triumph and heartbreak. From Barbarella to the Swiss Alps, and the Lower East Side to London, Anita Pallenberg was a creative force ahead of her time.",
+    "movieImage": "https://resizing.flixster.com/MgEk4PbstKyL4tmZ7n6eH69QKlY=/206x305/v2/https://resizing.flixster.com/kRbeOEDTMDUCINfHYEfqhbQAiMg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzUzMDZkYjhlLTAwNTEtNDBmOC05MDVmLWJjMmIyNWVjNTNjMS5qcGc=",
+    "metadataArr": [
+      "Released May 3 2024",
+      "1h 52m"
+    ],
+    "criticsScore": "88%",
+    "criticReviews": "32 Reviews",
+    "audienceScore": "63%",
+    "audienceVerifiedCount": "Fewer than 50 Ratings",
+    "genres": [
+      "Documentary",
+      "Biography",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/fishermans_friends",
+    "movieTitle": "Fisherman's Friends",
+    "movieDesc": "A cynical London music executive attempts to convince a group of singing Cornish fishermen to sign a record deal.",
+    "movieImage": "https://resizing.flixster.com/nPjx-f9zBzgGhFyoBsYXl7w2e0w=/206x305/v2/https://resizing.flixster.com/hWCr-za8hECefiy8IT2WeJNKB1I=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2U3OGI4NmUxLTgzMDMtNDNiZi05ODNlLTRkMWNiNWUyMDEyMS53ZWJw",
+    "metadataArr": [
+      "PG-13",
+      "2019",
+      "1h 52m"
+    ],
+    "criticsScore": "69%",
+    "criticReviews": "58 Reviews",
+    "audienceScore": "74%",
+    "audienceVerifiedCount": "100+ Ratings",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/born_to_be_blue",
+    "movieTitle": "Born to Be Blue",
+    "movieDesc": "In the late 1960s, jazz trumpeter Chet Baker (Ethan Hawke) begins a romance with an actress (Carmen Ejogo) while trying to stage a musical comeback.",
+    "movieImage": "https://resizing.flixster.com/FsjWAm_e_varwkUQUWFIgRBHu64=/206x305/v2/https://resizing.flixster.com/dDbHKuaRck52WQUDxx3yQmKBIqU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzJmOTNjYzRjLWFhOTItNDU2My1hMjJkLTg2NjAxOTkzOGJmZC53ZWJw",
+    "metadataArr": [
+      "R",
+      "Released Mar 25 2016",
+      "1h 37m"
+    ],
+    "criticsScore": "88%",
+    "criticReviews": "119 Reviews",
+    "audienceScore": "73%",
+    "audienceVerifiedCount": "5,000+ Ratings",
+    "genres": [
+      "Biography",
+      "History",
+      "Drama",
+      "Romance",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/on_the_come_up",
+    "movieTitle": "On the Come Up",
+    "movieDesc": "Starring newcomer Jamila C. Gray, ON THE COME UP is the story of Bri, a gifted 16-year-old rapper, who attempts to take the battle rap scene by storm in order to lift up her family and do right by the legacy of her father -- a local hip hop legend whose career was cut short by gang violence. But when her first hit song goes viral for all the wrong reasons, she finds herself torn between the authenticity that got her this far and the false persona that the industry wants to impose upon her.",
+    "movieImage": "https://resizing.flixster.com/lGT4nYXV1kmCaIw2isCkBxJbVsw=/206x305/v2/https://resizing.flixster.com/oLWdFMXXsr8VWbREkdvSb2k1z3k=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzA5NjA4M2NmLTkxMzAtNDY0Yi04NjU4LWQyZTI4YzNiNTEwZS5qcGc=",
+    "metadataArr": [
+      "PG-13",
+      "2022",
+      "1h 56m"
+    ],
+    "criticsScore": "75%",
+    "criticReviews": "32 Reviews",
+    "audienceScore": "74%",
+    "audienceVerifiedCount": "50+ Ratings",
+    "genres": [
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/beastie_boys_story",
+    "movieTitle": "Beastie Boys Story",
+    "movieDesc": "Mike Diamond and Adam Horovitz share the story of their band and 40 years of friendship in a live documentary experience.",
+    "movieImage": "https://resizing.flixster.com/LinOHogNw2ulu2hpum_xeXRxInA=/206x305/v2/https://resizing.flixster.com/8PBae_JMvYJwP3Fd0xERQVRbxp4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZlN2VmODdkLTIzMWQtNDI4Ny1iOGE0LTk2NTMyN2UwNjM2OC53ZWJw",
+    "metadataArr": [
+      "2020",
+      "1h 59m"
+    ],
+    "criticsScore": "95%",
+    "criticReviews": "86 Reviews",
+    "audienceScore": "85%",
+    "audienceVerifiedCount": "250+ Ratings",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/happier_than_ever_a_love_letter_to_los_angeles",
+    "movieTitle": "Happier than Ever: A Love Letter to Los Angeles",
+    "movieDesc": "GRAMMY® Award-winning and chart-topping artist Billie Eilish will make her Disney+ debut with \"Happier than Ever: A Love Letter to Los Angeles,\" a cinematic concert experience. Fresh off the heels of her brand-new album, \"Happier than Ever,\" the Disney+ original will feature an intimate performance of every song  in the album's sequential order – for the first and only time – from the stage of the legendary Hollywood Bowl.",
+    "movieImage": "https://resizing.flixster.com/pFoqWVvOEyrRRytIByyEZIzC19g=/206x305/v2/https://resizing.flixster.com/7RdbUAM1vdX-3CdbZXnghUwea7I=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzMyMzYzMjYwLTBiZmUtNGI0NC1iYWQ4LTljMjJiNmUzNmQ0Ni5qcGc=",
+    "metadataArr": [
+      "2021",
+      "1h 5m"
+    ],
+    "criticsScore": "100%",
+    "criticReviews": "5 Reviews",
+    "audienceScore": "87%",
+    "audienceVerifiedCount": "50+ Ratings",
+    "genres": [
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/milli_vanilli",
+    "movieTitle": "Milli Vanilli",
+    "movieDesc": "The bizarre untold truth behind the greatest con in music history -- Milli Vanilli.",
+    "movieImage": "https://resizing.flixster.com/kHX9HLqtLgk8hVa99hz8ipEhIbQ=/206x305/v2/https://resizing.flixster.com/GD-fkX7rokopKPU0Z7-QwUNBRNo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2M3ZTk1MWI5LTk1NzItNDBiOC1hN2Y0LTc5NzZiYzU2NWQwOS5qcGc=",
+    "metadataArr": [
+      "2023",
+      "1h 46m"
+    ],
+    "criticsScore": "100%",
+    "criticReviews": "25 Reviews",
+    "audienceScore": "92%",
+    "audienceVerifiedCount": "50+ Ratings",
+    "genres": [
+      "Documentary",
+      "Biography",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/black_is_king",
+    "movieTitle": "Black Is King",
+    "movieDesc": "",
+    "movieImage": "https://resizing.flixster.com/wkbYInSUG8_Mf5Ak0ODgiJ8wwXY=/206x305/v2/https://resizing.flixster.com/Gig4DBtpueUS4tcb3CG3U8RuFSA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzIwMDU5ZDY1LTFlMDItNGViYy04ZDQyLWFhMDgzOWYyZjZmYS53ZWJw",
+    "metadataArr": [
+      "TV-14",
+      "2020",
+      "1h 25m"
+    ],
+    "criticsScore": "94%",
+    "criticReviews": "68 Reviews",
+    "audienceScore": "89%",
+    "audienceVerifiedCount": "2,500+ Ratings",
+    "genres": [
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/stardust_2020",
+    "movieTitle": "Stardust",
+    "movieDesc": "Singer David Bowie reinvents himself as Ziggy Stardust while touring America to promote his new album \"The Man Who Sold the World.\"",
+    "movieImage": "https://resizing.flixster.com/W7HcEv_n5XLwDllrrC5d2kkwp1I=/206x305/v2/https://resizing.flixster.com/Hd-j_ftVDJfm1TAeWQ3M-3ufqTA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzNmMzY0NWY0LWMxODUtNGRmOS04OTdjLWEwYzcyYTAwMjAyYy5qcGc=",
+    "metadataArr": [
+      "Released Nov 25 2020",
+      "1h 49m"
+    ],
+    "criticsScore": "19%",
+    "criticReviews": "74 Reviews",
+    "audienceScore": "21%",
+    "audienceVerifiedCount": "50+ Ratings",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/elton_john_never_too_late",
+    "movieTitle": "Elton John: Never Too Late",
+    "movieDesc": "\"Elton John: Never Too Late\" follows Elton John as he looks back on his life and the astonishing early days of his 50-year career in this emotionally charged, intimate and uplifting full-circle journey. As he prepares for his final concert in North America at Dodger Stadium, Elton takes us back in time to recount the extraordinary highs and heartbreaking lows of his early years and how he overcame adversity, abuse and addiction to become the icon he is today.",
+    "movieImage": "https://resizing.flixster.com/uAS3saF3GzZO8fVxvEYshSr7V4Y=/206x305/v2/https://resizing.flixster.com/ZkJxRz3JbFke3NkKmzSlASR9sj8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzFkNGMyZmNlLTk0NDAtNDAyMC1iNTcwLTJmMzQ3NzVkZmVjNS5qcGc=",
+    "metadataArr": [
+      "PG-13",
+      "Released Nov 15 2024",
+      "1h 42m"
+    ],
+    "criticsScore": "77%",
+    "criticReviews": "43 Reviews",
+    "audienceScore": "70%",
+    "audienceVerifiedCount": "50+ Ratings",
+    "genres": [
+      "Biography",
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/immediate_family_2022",
+    "movieTitle": "Immediate Family",
+    "movieDesc": "Four musicians find lasting success but stay out of the limelight while performing with iconic singers Phil Collins, James Taylor, Carole King and others.",
+    "movieImage": "https://resizing.flixster.com/y2HhZa375lePLeu8acqBTFl6nxM=/206x305/v2/https://resizing.flixster.com/43OWSjvqJtuj8hBMpa_G6KxRLR8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzU2MzQwNjg1LTgzMTAtNDQ2MS05M2EwLTA3MTEyN2ZmNjEyZi5qcGc=",
+    "metadataArr": [
+      "Released Dec 15 2023",
+      "1h 42m"
+    ],
+    "criticsScore": "100%",
+    "criticReviews": "17 Reviews",
+    "audienceScore": "93%",
+    "audienceVerifiedCount": "Fewer than 50 Ratings",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/taurus",
+    "movieTitle": "Taurus",
+    "movieDesc": "A rising but troubled musician searches for the inspiration to record his next song, pushing himself deep into the void. A work of fiction that explores fame, addiction, the artistic process, and the music industry, Taurus is a soulful and universal cautionary tale.",
+    "movieImage": "https://resizing.flixster.com/vdMmOH2VWDymbpB9Z7GPyq44kY8=/206x305/v2/https://resizing.flixster.com/zFpukDt0YCPpSk1xs_TrnxSiVjs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI3MGZlNjgzLTJkNjUtNGE5Yy1iZDU5LTFiNDYxZjM2YjY2My5qcGc=",
+    "metadataArr": [
+      "Released Nov 18 2022",
+      "1h 38m"
+    ],
+    "criticsScore": "64%",
+    "criticReviews": "25 Reviews",
+    "audienceScore": "89%",
+    "audienceVerifiedCount": "50+ Ratings",
+    "genres": [
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/heavy_trip",
+    "movieTitle": "Heavy Trip",
+    "movieDesc": "In this offbeat comedy from Finland, Turo is stuck in a small village where the best thing in his life is being the lead vocalist for the amateur metal band Impaled Rektum. The only problem? He and his bandmates have practiced for 12 years without playing a single gig. The guys get a surprise visitor from Norway--the promoter for a huge heavy metal music festival--and decide it's now or never. They steal a van, a corpse, and even a new drummer in order to make their dreams a reality.",
+    "movieImage": "https://resizing.flixster.com/57rcjFTPm_Rkb9LMMECijoRb6YE=/206x305/v2/https://resizing.flixster.com/f18TDMg10bsKasrxUU4n7fR2lDM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE1NGU4YmZmLTViODgtNDMxYS05Y2M2LTI5OWFjMDBiNTViZC53ZWJw",
+    "metadataArr": [
+      "Released Oct 5 2018",
+      "1h 31m"
+    ],
+    "criticsScore": "94%",
+    "criticReviews": "32 Reviews",
+    "audienceScore": "85%",
+    "audienceVerifiedCount": "250+ Ratings",
+    "genres": [
+      "Comedy",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/miles_ahead_2016",
+    "movieTitle": "Miles Ahead",
+    "movieDesc": "In the 1970s, down-and-out jazz trumpeter Miles Davis (Don Cheadle) tries to recover his new session tape from music producers.",
+    "movieImage": "https://resizing.flixster.com/rw25tA_g6MLqqbdc2IuW3RBaLrk=/206x305/v2/https://resizing.flixster.com/jSFkNelMRd1GaGOx8EJ2Ao2L8kA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E0YzU0MjQ3LTI0NmYtNDI4NC1hMDgxLTU2ZTQ0MWZjZmY5Yi53ZWJw",
+    "metadataArr": [
+      "R",
+      "Released Apr 22 2016",
+      "1h 36m"
+    ],
+    "criticsScore": "74%",
+    "criticReviews": "185 Reviews",
+    "audienceScore": "57%",
+    "audienceVerifiedCount": "5,000+ Ratings",
+    "genres": [
+      "Biography",
+      "History",
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/miss_americana",
+    "movieTitle": "Taylor Swift: Miss Americana",
+    "movieDesc": "Pop singer Taylor Swift reveals intimate details of her life while showcasing backstage and onstage concert footage.",
+    "movieImage": "https://resizing.flixster.com/sdu4KkAoRmPfkVvvOigg-AqoaQQ=/206x305/v2/https://resizing.flixster.com/-y3gZNs34gckbRC7Yi3DhSlqqyM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzUzYjg3NmZmLWRiYWYtNDkwNy1hZTYzLTJmMTk3YWRkZmU0Zi53ZWJw",
+    "metadataArr": [
+      "Released Jan 31 2020",
+      "1h 26m"
+    ],
+    "criticsScore": "91%",
+    "criticReviews": "96 Reviews",
+    "audienceScore": "91%",
+    "audienceVerifiedCount": "2,500+ Ratings",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/kinky_boots",
+    "movieTitle": "Kinky Boots",
+    "movieDesc": "After his father's demise, Charlie Price (Joel Edgerton) inherits the family business, a shoe factory in Northampton, England. He is not interested in shoes, and the factory is in such dire financial straits that he must lay off 15 employees. However a fortuitous encounter with a transvestite cabaret singer (Chiwetel Ejiofor) inspires Charlie to save the factory from closure by producing erotic footwear, much to the chagrin of the workers.",
+    "movieImage": "https://resizing.flixster.com/ycqKNIi-9TZEk3QTTkeUCHpIfzQ=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p159677_p_v8_av.jpg",
+    "metadataArr": [
+      "PG-13",
+      "2005",
+      "1h 47m"
+    ],
+    "criticsScore": "58%",
+    "criticReviews": "112 Reviews",
+    "audienceScore": "74%",
+    "audienceVerifiedCount": "50,000+ Ratings",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "LGBTQ+",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/gaga_chromatica_ball",
+    "movieTitle": "Gaga Chromatica Ball",
+    "movieDesc": "In front of a sold-out crowd of 52,000 people, 13-time GRAMMY® and Academy Award® winner Lady Gaga delivers a career-defining performance at Los Angeles's Dodger Stadium during her 2022 Chromatica Ball Tour. Released exclusively on HBO and streaming on Max, GAGA CHROMATICA BALL delivers breathtaking live performances of some of Gaga's biggest and most cherished hits, including \"Stupid Love,\" \"Bad Romance,\" \"Just Dance,\" \"Poker Face,\" \"Shallow,\" \"Rain On Me,\" and more. The film delivers huge show-stopping moments and intimate piano numbers, complete with heart-stopping choreography, intense pyrotechnics and an array of iconic outfit changes as only Gaga does. This is Lady Gaga as you've never seen her before.",
+    "movieImage": "https://resizing.flixster.com/VihWnmjBUP1ODCA2CZFFTAXr87M=/206x305/v2/https://resizing.flixster.com/NZrxXhuO8IvROiZMRmONTlusZ58=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRlMzM1YzU2LWRmMTQtNDQyNC04MjZjLWVmZTBhODllYTAxMy5qcGc=",
+    "metadataArr": [
+      "2024",
+      "1h 58m"
+    ],
+    "criticsScore": "100%",
+    "criticReviews": "5 Reviews",
+    "audienceScore": "92%",
+    "audienceVerifiedCount": "250+ Ratings",
+    "genres": [
+      "Music",
+      "Documentary"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/1200743-wrecking_crew",
+    "movieTitle": "The Wrecking Crew",
+    "movieDesc": "The son of guitarist Tommy Tedesco pays tribute to his late father and a core group of studio musicians who played on some of the biggest hits of the 1960s and '70s, including \"California Girls\" and \"Mrs. Robinson.\"",
+    "movieImage": "https://resizing.flixster.com/3VSvOFKxrEDjyrOsmKXpASoKeeM=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p190344_p_v8_ad.jpg",
+    "metadataArr": [
+      "PG",
+      "Released Mar 13 2015",
+      "1h 42m"
+    ],
+    "criticsScore": "94%",
+    "criticReviews": "71 Reviews",
+    "audienceScore": "84%",
+    "audienceVerifiedCount": "5,000+ Ratings",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/amazing_grace_2018",
+    "movieTitle": "Amazing Grace",
+    "movieDesc": "Singer Aretha Franklin performs gospel songs at the New Temple Missionary Baptist Church in Los Angeles in 1972.",
+    "movieImage": "https://resizing.flixster.com/Tw81sYIhj_F1WfqPBgBAGU7ePH8=/206x305/v2/https://resizing.flixster.com/u4EisTXxdFavU3dX01X6hwYsRGY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2IzMDhiZTM0LTc2OWEtNDcwZC04ZGIyLTczNmZkZDc3NjQ0Yi53ZWJw",
+    "metadataArr": [
+      "G",
+      "Released Nov 23 2018",
+      "1h 27m"
+    ],
+    "criticsScore": "99%",
+    "criticReviews": "163 Reviews",
+    "audienceScore": "80%",
+    "audienceVerifiedCount": "250+ Ratings",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/june_2023",
+    "movieTitle": "June",
+    "movieDesc": "JUNE shines an important spotlight on the history of country music and the mark the Carter and Cash families made on the genre before diving into the complex life of the legendary June Carter Cash. The five-time Grammy® Award-winning singer, comedian, musician, actor and author has opened for Elvis, appeared onscreen with Robert Duvall and Jane Seymour and co-wrote one of the most recognizable country songs of all time, \"Ring of Fire.\" Perhaps at times overshadowed by her iconic husband Johnny Cash, she now takes center stage.",
+    "movieImage": "https://resizing.flixster.com/KO7tpsaVrxAla-4fxhHilCt6-Ow=/206x305/v2/https://resizing.flixster.com/_SiFclFoasxTm8uYxQ1ulyN87Jk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzkyOWJjNTJjLWQwZDAtNGU2Ni05YTFmLWIzMGFiMzBhZWJhOC5qcGc=",
+    "metadataArr": [
+      "2023",
+      "1h 38m"
+    ],
+    "criticsScore": "100%",
+    "criticReviews": "7 Reviews",
+    "audienceScore": "83%",
+    "audienceVerifiedCount": "Fewer than 50 Ratings",
+    "genres": [
+      "Documentary",
+      "Biography",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/whitney_2018",
+    "movieTitle": "Whitney",
+    "movieDesc": "Filmmaker Kevin Macdonald examines the life and career of singer Whitney Houston. Features never-before-seen archival footage, exclusive recordings, rare performances and interviews with the people who knew her best.",
+    "movieImage": "https://resizing.flixster.com/73Rf7dHPppc440-4b3N-ZTBb1wA=/206x305/v2/https://resizing.flixster.com/ugG6ZihqrxaztPEMxSjdgVjlTdE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzkxZjg2NjkxLTYyZjAtNDA5Mi1hNGQyLTVhODA1ZjFiYjM4Yi53ZWJw",
+    "metadataArr": [
+      "R",
+      "Released Jul 6 2018",
+      "2h 0m"
+    ],
+    "criticsScore": "88%",
+    "criticReviews": "163 Reviews",
+    "audienceScore": "75%",
+    "audienceVerifiedCount": "500+ Ratings",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/charli_xcx_alone_together",
+    "movieTitle": "Charli XCX: Alone Together",
+    "movieDesc": "Seeking solace in music during the COVID-19 pandemic, global pop star Charli XCX asks her fans to help her make an album while quarantined at home. Charli embarks on a creative and emotional journey as she confronts mental health issues, rekindles her relationship with her boyfriend, connects with her fans, and ultimately produces the music for \"how i'm feeling now.\"",
+    "movieImage": "https://resizing.flixster.com/fUsaJIWnUoK5Z3SAyEmZd4EUrbs=/206x305/v2/https://resizing.flixster.com/B2W_PZMDJsWKSvfV6Gyjwg-kvmg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2E1NWI5N2Q5LWZlZjEtNDgzZS1hYTcyLWNiN2RkN2E5ZWI5MS5qcGc=",
+    "metadataArr": [
+      "Released Jan 28 2022",
+      "1h 10m"
+    ],
+    "criticsScore": "85%",
+    "criticReviews": "40 Reviews",
+    "audienceScore": "75%",
+    "audienceVerifiedCount": "Fewer than 50 Ratings",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/american_satan",
+    "movieTitle": "American Satan",
+    "movieDesc": "A young rock band, half from England and half from the US, drop out of college and move to the Sunset Strip to chase their dreams.",
+    "movieImage": "https://resizing.flixster.com/0WpPPpbzmNYBSNHG8_6dIKdP0os=/206x305/v2/https://resizing.flixster.com/3t0nWYyn3d-yfSS3WWAOWRh7qqw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2FhNmZkNzZmLTI5NWUtNGZkNS04MmFkLWYyMTY0MTBiY2UwNC53ZWJw",
+    "metadataArr": [
+      "R",
+      "Released Oct 13 2017",
+      "1h 51m"
+    ],
+    "criticsScore": "78%",
+    "criticReviews": "9 Reviews",
+    "audienceScore": "78%",
+    "audienceVerifiedCount": "500+ Ratings",
+    "genres": [
+      "Mystery & Thriller",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/daytime_revolution",
+    "movieTitle": "Daytime Revolution",
+    "movieDesc": "For one extraordinary week beginning on February 14th, 1972, the Revolution WAS televised. Daytime Revolution takes us back in time to the week that John Lennon and Yoko Ono descended upon a Philadelphia broadcasting studio to co-host the iconic Mike Douglas Show, at the time the most popular show on daytime television with an audience of 40 million viewers a week. What followed was five unforgettable episodes of television, with Lennon and Ono at the helm and Douglas bravely keeping the show on track. Acting as both producers and hosts, Lennon and Ono handpicked their guests, including controversial choices like Yippie founder Jerry Rubin and Black Panther Chairman Bobby Seale, as well as political activist Ralph Nader and comic truth teller George Carlin. Their version of daytime TV was a radical take on the traditional format, incorporating candid Q&A sessions with their transfixed audience, conversations about current issues like police violence and women's liberation, conceptual art events, and one-of-a-kind musical performances, including a unique duet with Lennon and Chuck Berry and a poignant rendition of Lennon's \"Imagine\". A document of the past that speaks to our turbulent present, Daytime Revolution captures the power that art can have when it reaches out to communicate, the prescience of that dialogue, and the bravery of two artists who never took the easy way out as they fought for their vision of a better world.",
+    "movieImage": "https://resizing.flixster.com/R3fm0MiPyE1F1bOsOLTuWw5d2ec=/206x305/v2/https://resizing.flixster.com/57T0du5BvTPFL_bjylfZBBgqriA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzY3YTk1Y2ZiLTkwMzUtNGI0NS1iNTEyLTY2ZDZkMDk4Y2QzYS5qcGc=",
+    "metadataArr": [
+      "Released Oct 9 2024",
+      "1h 48m"
+    ],
+    "criticsScore": "93%",
+    "criticReviews": "15 Reviews",
+    "audienceScore": "98%",
+    "audienceVerifiedCount": "Fewer than 50 Ratings",
+    "genres": [
+      "Documentary",
+      "History",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/oasis_supersonic",
+    "movieTitle": "Oasis: Supersonic",
+    "movieDesc": "A revealing look at the meteoric rise of seminal '90s rock band Oasis, weaving never-before-seen concert footage with candid interviews and a firsthand account of the backstage sibling rivalry that threatened to destroy the band.",
+    "movieImage": "https://resizing.flixster.com/DFBX-HCia7vTRy9RokEhPMcbs5E=/206x305/v2/https://resizing.flixster.com/cf_P2lQhBfO1_16UHeXh1xx6wwM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzVhOWQwNjBkLWVkOGUtNDFjNS05YmM3LTRmNzgzZmU2YTIwMi53ZWJw",
+    "metadataArr": [
+      "R",
+      "Released Oct 26 2016",
+      "1h 57m"
+    ],
+    "criticsScore": "84%",
+    "criticReviews": "56 Reviews",
+    "audienceScore": "86%",
+    "audienceVerifiedCount": "1,000+ Ratings",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/crock_of_gold",
+    "movieTitle": "Crock of Gold: A Few Rounds With Shane MacGowan",
+    "movieDesc": "CROCK OF GOLD – A FEW ROUNDS WITH SHANE MACGOWAN deep dives into the life of the tortured Irish vocalist, best known as the lead singer and songwriter of the Pogues, who famously combined traditional Irish music with the visceral energy of punk rock. Featuring unseen archival footage from the band and MacGowan's family, as well as animation from legendary illustrator Ralph Steadman, Julien Temple's rollicking love letter spotlights the iconic frontman up to his 60th birthday celebration, where singers, movie stars and rock 'n' roll outlaws gather to celebrate the man and his legacy.",
+    "movieImage": "https://resizing.flixster.com/dHHabLqNdM9j7ELJHp1YLbY3kiA=/206x305/v2/https://resizing.flixster.com/E_C9xlDv_YglMe1z1KneLsdNHkc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzk3NzA0YzJkLWVjYWYtNDllZi1iZTdhLTY1YzU2ZDRjMTc4ZS5qcGc=",
+    "metadataArr": [
+      "Released Dec 4 2020",
+      "2h 4m"
+    ],
+    "criticsScore": "96%",
+    "criticReviews": "51 Reviews",
+    "audienceScore": "91%",
+    "audienceVerifiedCount": "50+ Ratings",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/cypher_2023",
+    "movieTitle": "Cypher",
+    "movieDesc": "GRAMMY-nominated lyricist and fast-rising star Tierra Whack first gained recognition at the age of 15 when she stunned viewers with her slick poetry while rapping for a YouTube channel on a Philadelphia Street. The video rapidly drew thousands of views and marked the first of Tierra's many performances for the camera. Years later, director Chris Moukarbel begins documenting her astronomical rise, going behind the scenes of concerts and music videos as she navigates fame and receives exalted praise from stars like Erykah Badu. One night, after a particularly tiring set, a seemingly innocuous fan interaction begins a series of increasingly unsettling events that swirl around Tierra and her team -- even following them to Dubai. They soon start questioning who is filming whom and whether being seen (or watched) is a desirable and unavoidable part of fame.",
+    "movieImage": "https://resizing.flixster.com/kASwjFdcM6xvS3hRm-d7ck5KTVo=/206x305/v2/https://resizing.flixster.com/d6kDPk22f1dZQVvfsGcGiHm9Pp8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzRmMzc0NDhmLTUyNGUtNDJhYS1hYzlkLWYzNTZjNGFlNjQwYi5qcGc=",
+    "metadataArr": [
+      "R",
+      "Released Nov 24 2023",
+      "1h 21m"
+    ],
+    "criticsScore": "87%",
+    "criticReviews": "15 Reviews",
+    "audienceScore": "57%",
+    "audienceVerifiedCount": "Fewer than 50 Ratings",
+    "genres": [
+      "Documentary",
+      "Music",
+      "Mystery & Thriller"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/the_music_of_silence",
+    "movieTitle": "The Music of Silence",
+    "movieDesc": "Chronicles the life of Andrea Bocelli, who transcended his blindness through his singing.",
+    "movieImage": "https://resizing.flixster.com/HElcyTJNumNI4SMR4TBxE8deo8s=/206x305/v2/https://resizing.flixster.com/0Go9Ly4U0ftLLE57ea8Q7SOLZnY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzVmY2JlNzdkLTMyNDItNGY4ZS04MzRmLTg5Nzk0MzMzYjRkMy53ZWJw",
+    "metadataArr": [
+      "Released Feb 2 2018",
+      "2h 10m"
+    ],
+    "criticsScore": "0%",
+    "criticReviews": "16 Reviews",
+    "audienceScore": "76%",
+    "audienceVerifiedCount": "100+ Ratings",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/homecoming_a_film_by_beyonce",
+    "movieTitle": "Homecoming: A Film by Beyoncé",
+    "movieDesc": "This intimate, in-depth look at Beyoncé's celebrated 2018 Coachella performance reveals the emotional road from creative concept to cultural movement.",
+    "movieImage": "https://resizing.flixster.com/xb7yo3BcuIBoJ5cARzGxSUVXLfA=/206x305/v2/https://resizing.flixster.com/lCqPh0AZdUjdm3Q6cqaSSkZA3bo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzVhNTk3ZjUzLTkyMGYtNGYxYi04NzMwLWM3MDlkNjJiMjNlOS53ZWJw",
+    "metadataArr": [
+      "2019",
+      "2h 17m"
+    ],
+    "criticsScore": "98%",
+    "criticReviews": "55 Reviews",
+    "audienceScore": "87%",
+    "audienceVerifiedCount": "1,000+ Ratings",
+    "genres": [
+      "Documentary",
+      "Biography",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/the_swearing_jar",
+    "movieTitle": "The Swearing Jar",
+    "movieDesc": "The Swearing Jar is Carey's story: a high-school music teacher who throws a birthday concert for her husband, Simon, which rekindles reminiscences of their past. Through comedy, music and memory, we follow the story of Carey and Simon's relationship, the birth of their child... and the lie that threatens to f*&k it all up!",
+    "movieImage": "https://resizing.flixster.com/_oMz180Es48eq3MTb1aF-bWtZFg=/206x305/v2/https://resizing.flixster.com/VfBWD_G5onjNzG3ijNWd6vtPBMg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzliMzQ4YmZkLWU4OTItNGQyOC1hYjAyLWE2M2Y2MmNkZGFjYy5qcGc=",
+    "metadataArr": [
+      "Released Sep 23 2022",
+      "1h 51m"
+    ],
+    "criticsScore": "94%",
+    "criticReviews": "16 Reviews",
+    "audienceScore": "73%",
+    "audienceVerifiedCount": "50+ Ratings",
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/ariana_grande_excuse_me_i_love_you",
+    "movieTitle": "ariana grande: excuse me, i love you",
+    "movieDesc": "The Netflix documentary film ariana grande: excuse me, i love you follows the Grammy-winning, multi-platinum singer-songwriter around the globe on her sold out 2019 Sweetener World Tour, capturing the spectacular performances of the hits that have burned up the charts, as well as exclusive, never-before-seen footage of the internationally-beloved superstar at home and on the road with her dancers and band. The film offers an exclusive peek at the many facets of the passionate, raw, and always real artist and provides backstage access to the pre-show rehearsals, iconic styling, and the intimate and emotional moments that are the reason for the special connection she has with her fans.",
+    "movieImage": "https://resizing.flixster.com/s427QOeNRBk0fe6e1rT_M6nsel0=/206x305/v2/https://resizing.flixster.com/a-9-k6YUefBuRops2h3849YTZl4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JiZDU3ZTA4LWE2ZTQtNDEwMC1iNmIxLTY4ZTZjYjQ1NzVhZi5qcGc=",
+    "metadataArr": [
+      "2020"
+    ],
+    "criticsScore": "50%",
+    "criticReviews": "8 Reviews",
+    "audienceScore": "89%",
+    "audienceVerifiedCount": "500+ Ratings",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/yellow_rose",
+    "movieTitle": "Yellow Rose",
+    "movieDesc": "A Filipina teen must decide whether to stay with her family or leave her small Texas town to become a country music singer.",
+    "movieImage": "https://resizing.flixster.com/0Q94JpJAAtUCCAg48rbzAv9CKj0=/206x305/v2/https://resizing.flixster.com/jN4dEOFBvqlL5WhnSXkeacNcBsQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzE4ZWVlNzkxLWJkNDItNDVjZC04ZjNiLWIwNzQyYjMyNWNjMS53ZWJw",
+    "metadataArr": [
+      "PG-13",
+      "Released Oct 9 2020",
+      "1h 35m"
+    ],
+    "criticsScore": "87%",
+    "criticReviews": "53 Reviews",
+    "audienceScore": "64%",
+    "audienceVerifiedCount": "100+ Ratings",
+    "genres": [
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/fishermans_friends_one_and_all",
+    "movieTitle": "Fisherman's Friends: One and All",
+    "movieDesc": "The sequel to the 2019 hit UK comedy charts the next installment of the Fisherman's Friends uplifting true-story. Following the unexpected success of the band's debut album \"No Hopers, Jokers and Rogues\" we re-join them almost a year later, struggling with the pressures, pitfalls and temptations of their newfound fame. FISHERMAN'S FRIENDS ONE AND ALL continues the journey with the loveable 'buoy band', as they navigate the choppy waters of fame, second album syndrome, and performing on the pyramid stage at Glastonbury.",
+    "movieImage": "https://resizing.flixster.com/ZsTJ5ipyw9bPhXTNoXyrTuCE2_I=/206x305/v2/https://resizing.flixster.com/SRX60l8qqzA5QKQMQ3RWrGZqeLs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzY4OTlkMDI2LTZkMGItNDJkNC04NzM3LWJiYTc2MGE5MzExMC5qcGc=",
+    "metadataArr": [
+      "PG-13",
+      "Released Nov 18 2022",
+      "1h 51m"
+    ],
+    "criticsScore": "40%",
+    "criticReviews": "20 Reviews",
+    "audienceScore": "82%",
+    "audienceVerifiedCount": "50+ Ratings",
+    "genres": [
+      "Comedy",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/a_chance_encounter",
+    "movieTitle": "A Chance Encounter",
+    "movieDesc": "Two Americans, one an aspiring poet and the other an established folk musician, cross paths in the scenic, coastal town of Taormina, Sicily. Their instant chemistry sparks collaboration, leading to an unexpected, weeklong writer's retreat at a beautiful villa in the Sicilian countryside. As they immerse themselves in the local culture, they challenge each other to express their thorniest secrets, growing closer all the while.",
+    "movieImage": "https://resizing.flixster.com/oc06nsCYhLxVNpExAnQoU19XjZk=/206x305/v2/https://resizing.flixster.com/j_UAnqgqPqwLneIixcwaRsU1FYg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBlOGVlYTkwLWQ2ZTItNGNkNy04M2NiLTRmNjc4ZjE1Yzc5OS5qcGc=",
+    "metadataArr": [
+      "Released Oct 28 2022",
+      "1h 31m"
+    ],
+    "criticsScore": "60%",
+    "criticReviews": "5 Reviews",
+    "audienceScore": "83%",
+    "audienceVerifiedCount": "Fewer than 50 Ratings",
+    "genres": [
+      "Romance",
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/high_strung_2016",
+    "movieTitle": "High Strung",
+    "movieDesc": "Sparks fly between a young ballerina (Keenan Kampa) and a British violinist (Nicholas Galitzine) as they prepare for a musical competition.",
+    "movieImage": "https://resizing.flixster.com/rMTm8Y_Cbl2xIGAMLwxfEToy55Q=/206x305/v2/https://resizing.flixster.com/nCdvM5tydrCDW_K-GC-dn8O2OHg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YzNDIxYzczLWIwZjYtNDhiMy1iZTU1LTM2ODk2NWNkZDU1My53ZWJw",
+    "metadataArr": [
+      "PG",
+      "Released Apr 8 2016",
+      "1h 37m"
+    ],
+    "criticsScore": "75%",
+    "criticReviews": "8 Reviews",
+    "audienceScore": "67%",
+    "audienceVerifiedCount": "500+ Ratings",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/roxanne_roxanne",
+    "movieTitle": "Roxanne Roxanne",
+    "movieDesc": "The most feared battle emcee in the early 1980s in Queens, New York, was a fierce teenager from the Queensbridge projects. At the age of 14, Roxanne Shanté was well on her way to becoming a hip-hop legend, as she hustled to provide for her family while defending herself from the dangers of the street.",
+    "movieImage": "https://resizing.flixster.com/DQWJk0PE3XIUyvbM-pyB6KOY0_w=/206x305/v2/https://resizing.flixster.com/9bYdSFHWAIHL0ypQACGO-UGc1Yo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZlNzJkZGRiLWEyZWEtNDllNS04ZTI5LWZjNmJkMzUyMjdiNy53ZWJw",
+    "metadataArr": [
+      "2017",
+      "1h 38m"
+    ],
+    "criticsScore": "68%",
+    "criticReviews": "28 Reviews",
+    "audienceScore": "62%",
+    "audienceVerifiedCount": "100+ Ratings",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/on_gaku_our_sound",
+    "movieTitle": "On-Gaku: Our Sound",
+    "movieDesc": "When you're a bored teenager looking for thrills, sometimes the only thing you can turn to is rock 'n roll. Having no skill, money, or even a full set of drums, a feared trio of high school delinquents nevertheless decide they are destined for musical glory in a quest to impress their only friend Aya, avoid a rival gang, and - - most importantly -- jam out. Animated almost entirely by director Kenji Iwaisawa, and featuring a lead performance by Japanese alt-rock legend Shintaro Sakamoto, ON-GAKU: OUR SOUND brings its own sound and vision to the Hiroyuki Ohashi manga from which it was adapted. With pitch-perfect deadpan humor, the film presents a highly original take on the beloved slacker comedy: a lo-fi buddy film with a blaring musical finale that will leave you wanting an immediate encore.",
+    "movieImage": "https://resizing.flixster.com/xPtXAqzc1YMiSb-A5RN_vctzFdQ=/206x305/v2/https://resizing.flixster.com/6LS5aP-o4p-ehYMmltn8hYGwt_Q=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2U5ZjIwODg4LTlmNzUtNGY3Mi05OThiLTZhZWE5N2VjZjE0Yi5qcGc=",
+    "metadataArr": [
+      "Released Dec 11 2020",
+      "1h 11m"
+    ],
+    "criticsScore": "100%",
+    "criticReviews": "13 Reviews",
+    "audienceScore": "75%",
+    "audienceVerifiedCount": "Fewer than 50 Ratings",
+    "genres": [
+      "Comedy",
+      "Music",
+      "Anime",
+      "Animation"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/the_jesus_music",
+    "movieTitle": "The Jesus Music",
+    "movieDesc": "With stirring songs of faith, love, and hope, Jesus music rose from America's 1960s counterculture movement to become a worldwide phenomenon. This fascinating documentary reveals the music's uplifting and untold story -- from its humble beginnings at the Calvary Chapel in Costa Mesa, California through its transformation into the multibillion-dollar industry of Christian Contemporary Music today. Directed by the Erwin Brothers (\"I Can Only Imagine\", \"I Still Believe\", \"American Underdog\"), THE JESUS MUSIC is the definitive love letter to CCM fans that features intimate interviews with the genre's biggest stars including Amy Grant, Michael W. Smith, TobyMac, Kirk Franklin, and Lauren Daigle. With stories of trials and triumphs, the universal power of music from these artists shine through from their messages of passion, sacrifice, and redemption that inspire millions of devoted listeners.",
+    "movieImage": "https://resizing.flixster.com/xY6M6Sg5O9duUSjkr9xk2zIRL_U=/206x305/v2/https://resizing.flixster.com/qq-hYQx6asC5brJW2YoduwLcmkI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Y1YWVlZjk5LWE0ZjUtNDY5MC05ZDc3LWEwMDE0OTUwNWVmNS5qcGc=",
+    "metadataArr": [
+      "PG-13",
+      "Released Oct 1 2021",
+      "1h 49m"
+    ],
+    "criticsScore": "67%",
+    "criticReviews": "15 Reviews",
+    "audienceScore": "97%",
+    "audienceVerifiedCount": "500+ Verified Ratings",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/one_more_time_with_feeling",
+    "movieTitle": "One More Time With Feeling",
+    "movieDesc": "Singer-songwriter Nick Cave offers up a narrative reflection of the creative process.",
+    "movieImage": "https://resizing.flixster.com/Ng8_u3IvTJM-wF1Um9OL7gmOiqk=/206x305/v2/https://resizing.flixster.com/lGKqwNi67P8EB1oX00VQ0Pncg6U=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2I3N2NhMDRhLWFlMDctNGJhNC05NWMzLTU0NzFjY2YzNWY1OS53ZWJw",
+    "metadataArr": [
+      "2016",
+      "1h 52m"
+    ],
+    "criticsScore": "100%",
+    "criticReviews": "27 Reviews",
+    "audienceScore": "92%",
+    "audienceVerifiedCount": "250+ Ratings",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/seriously_red",
+    "movieTitle": "Seriously Red",
+    "movieDesc": "Red (Krew Boylan) lost her job as a real estate agent, but there's something no one can take away from her: her dream of becoming the world's greatest Dolly Parton impersonator! After her act attracts the attentions of an amorous Elvis impersonator (Rose Byrne) and a powerful booking agent (Bobby Cannavale), Red is catapulted into the top tier of copycat acts, becoming the onstage and romantic partner of the top Kenny Rogers impersonator. But when Red's life as an imitator starts to feel false, she discovers true happiness comes when you're being the best version of yourself.",
+    "movieImage": "https://resizing.flixster.com/4P_eu7J_yRTqA-3XfNK1O2dNXzw=/206x305/v2/https://resizing.flixster.com/_wXnxkgKnwOISzJ-7JqQ6pGUk-o=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2I3MGJlNmRjLTIwM2QtNDYyOS1iN2E1LTIyNDMxMjAwMTY2Zi5qcGc=",
+    "metadataArr": [
+      "R",
+      "Released Feb 10 2023",
+      "1h 44m"
+    ],
+    "criticsScore": "55%",
+    "criticReviews": "44 Reviews",
+    "audienceScore": "45%",
+    "audienceVerifiedCount": "Fewer than 50 Ratings",
+    "genres": [
+      "Comedy",
+      "Music",
+      "Drama"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/the_go_gos",
+    "movieTitle": "The Go-Go's",
+    "movieDesc": "The Go-Go's become the first successful, all-girl band to write their own songs and play their own instruments while making it to No. 1 on the charts.",
+    "movieImage": "https://resizing.flixster.com/ekGG51tsscen0TvDM0mKOA6DbBw=/206x305/v2/https://resizing.flixster.com/XfIbmm1bEjkrfUHaLlxUx9K2hF0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzVhYWMyOWVmLThiOGYtNDIzZS1hZTE2LTc4YzEyZjgwNjczNi53ZWJw",
+    "metadataArr": [
+      "2020",
+      "1h 38m"
+    ],
+    "criticsScore": "98%",
+    "criticReviews": "49 Reviews",
+    "audienceScore": "94%",
+    "audienceVerifiedCount": "50+ Ratings",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/little_richard_i_am_everything",
+    "movieTitle": "Little Richard: I Am Everything",
+    "movieDesc": "LITTLE RICHARD: I AM EVERYTHING tells the story of the Black queer origins of rock n' roll, exploding the whitewashed canon of American pop music to reveal the innovator -- the originator -- Richard Penniman. Through a wealth of archive and performance that brings us into Richard's complicated inner world, the film unspools the icon's life story with all its switchbacks and contradictions. In interviews with family, musicians, and cutting-edge Black and queer scholars, the film reveals how Richard created an art form for ultimate self-expression, yet what he gave to the world he was never able to give to himself. Throughout his life, Richard careened like a shiny cracked pinball between God, sex and rock n' roll. The world tried to put him in a box, but Richard was an omni being who contained multitudes -- he was unabashedly everything.",
+    "movieImage": "https://resizing.flixster.com/f2NhNGZlQLmbTkhM7y-_PfQKqhs=/206x305/v2/https://resizing.flixster.com/ORjf_stSH_5nBcalQBQ5QnAv6Q4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzdlNTRiZGM5LWU1YjItNGQ3Mi1iZDlhLTQ1YzdmZGI0MmFiMy5wbmc=",
+    "metadataArr": [
+      "Released Apr 11 2023",
+      "1h 38m"
+    ],
+    "criticsScore": "94%",
+    "criticReviews": "101 Reviews",
+    "audienceScore": "98%",
+    "audienceVerifiedCount": "500+ Ratings",
+    "genres": [
+      "Documentary",
+      "Music",
+      "Biography"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/patti_cakes",
+    "movieTitle": "Patti Cake$",
+    "movieDesc": "Fed up with life in her New Jersey hometown, Patricia Dombrowski, aka Patti Cake$, hopes to follow in the footsteps of her idol and hit the road to achieve stardom as a rapper. With help from her best friend, a mysterious musician and her loving grandmother, Patti leads the charge against an army of haters, unpaid bills and the broken dreams that are holding her back.",
+    "movieImage": "https://resizing.flixster.com/nYHGUUibEEZrFNf75ChHFGJ2Rew=/206x305/v2/https://resizing.flixster.com/UO1_HTLo9wJLL07ONX7kwR5V3wk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2U5YzFlZWQ4LTdjZmMtNDM3Ny05M2RkLTVjYThmMmQ0ZDNlNS53ZWJw",
+    "metadataArr": [
+      "R",
+      "Released Aug 18 2017",
+      "1h 48m"
+    ],
+    "criticsScore": "86%",
+    "criticReviews": "168 Reviews",
+    "audienceScore": "78%",
+    "audienceVerifiedCount": "2,500+ Ratings",
+    "genres": [
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/ae_dil_hai_mushkil",
+    "movieTitle": "Ae Dil Hai Mushkil",
+    "movieDesc": "Musician Ayan's quest for true love remains unfulfilled as Alizeh does not reciprocate his feelings. In his journey, he comes across different people who make him realize the power of unrequited love.",
+    "movieImage": "https://resizing.flixster.com/s8wJl9KJmlW8gB-2ehz7j8hf1yQ=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13240935_p_v8_ad.jpg",
+    "metadataArr": [
+      "Released Oct 28 2016",
+      "2h 35m"
+    ],
+    "criticsScore": "53%",
+    "criticReviews": "17 Reviews",
+    "audienceScore": "43%",
+    "audienceVerifiedCount": "1,000+ Ratings",
+    "genres": [
+      "Drama",
+      "Musical",
+      "Music",
+      "Romance"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/may_it_last_a_portrait_of_the_avett_brothers",
+    "movieTitle": "May It Last: A Portrait of the Avett Brothers",
+    "movieDesc": "A portrait of the Avett Brothers, a North Carolina band, as they create their album \"True Sadness.\"",
+    "movieImage": "https://resizing.flixster.com/wJ8v9qgjAV0bGDrI4L9F7zYuZqw=/206x305/v2/https://resizing.flixster.com/TEmKeOCEYQE3yrQ_QivAwma7FcA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZhN2MyZWM1LWRlYjItNDM0Mi04YTMxLWIyZThjY2QwZDE4OC53ZWJw",
+    "metadataArr": [
+      "Released Sep 12 2017",
+      "1h 44m"
+    ],
+    "criticsScore": "89%",
+    "criticReviews": "9 Reviews",
+    "audienceScore": "98%",
+    "audienceVerifiedCount": "250+ Ratings",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/becks",
+    "movieTitle": "Becks",
+    "movieDesc": "After a devastating breakup, a singer-songwriter moves in with her strictly Catholic mother and forms an unexpected friendship with the wife of an old rival.",
+    "movieImage": "https://resizing.flixster.com/UnqRrNQty90zWE3FqocpwO6CxXw=/206x305/v2/https://resizing.flixster.com/hCEPyZkv38JqaYzTouShU8CtAk8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2EzZWFlMGEyLWYyZDYtNGY1NC1iODEzLTg0Yjg2NjIzNjgwNi53ZWJw",
+    "metadataArr": [
+      "Released Feb 9 2018",
+      "1h 31m"
+    ],
+    "criticsScore": "95%",
+    "criticReviews": "19 Reviews",
+    "audienceScore": "89%",
+    "audienceVerifiedCount": "100+ Ratings",
+    "genres": [
+      "Drama",
+      "Music",
+      "LGBTQ+"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/lost_angel_the_genius_of_judee_sill",
+    "movieTitle": "Lost Angel: The Genius of Judee Sill",
+    "movieDesc": "The never-before-told story of folk-rock icon Judee Sill, who in just two years went from living in a car to appearing on the cover of Rolling Stone. The documentary charts her troubled adolescence through her meteoric rise in the music world and early tragic death. Featuring Linda Ronstadt, Jackson Browne, David Crosby, Graham Nash, Fleet Foxes, David Geffen, and more.",
+    "movieImage": "https://resizing.flixster.com/V9qEtOcLBX85Rs5RGFjbrBG1Tsc=/206x305/v2/https://resizing.flixster.com/rTOvzfoWUMyWQxuYOVH5-tlvQN4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ2M2ZiMjVkLTIwMWYtNDA5ZS04ZGViLTM2ODU3MTk1MDdkMy5qcGc=",
+    "metadataArr": [
+      "Released Apr 12 2024",
+      "1h 33m"
+    ],
+    "criticsScore": "92%",
+    "criticReviews": "13 Reviews",
+    "audienceScore": "85%",
     "audienceVerifiedCount": "No Reviews",
     "genres": [
-      "Action",
+      "Documentary",
+      "Music",
+      "Biography"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/mr_jimmy",
+    "movieTitle": "Mr. Jimmy",
+    "movieDesc": "In snowbound Tokamachi, Japan, teenaged Akio Sakurai took refuge in his room, escaping to another world with a pair of headphones and a pile of Led Zeppelin records. Moving to Tokyo, Akio worked as a kimono salesman by day, but by night became \"Mr. Jimmy,\" adopting the guitar chops and persona of Jimmy Page. For 35 years, Akio recreated vintage Zeppelin concerts note-for-note in small Tokyo clubs, until the real Jimmy Page stopped by one night, and Akio's life changed forever. Inspired by Mr. Page's ovation, Akio quits his \"salary man\" job, leaving behind his family to move to Los Angeles and join \"Led Zepagain.\" Soon cultures clash, and Akio's idyllic vision of America meets with reality.",
+    "movieImage": "https://resizing.flixster.com/C859PaAq7EGfCURbltD58w0RQDc=/206x305/v2/https://resizing.flixster.com/j46_VybGVFFlOxT3l5EpJOj6kuU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YzNWQ2NTRmLTFiZjYtNDZlMy1hNzBiLTVlNDUzOGI1N2NiMi5qcGc=",
+    "metadataArr": [
+      "Released Sep 1 2023",
+      "1h 52m"
+    ],
+    "criticsScore": "100%",
+    "criticReviews": "13 Reviews",
+    "audienceScore": "86%",
+    "audienceVerifiedCount": "Fewer than 50 Ratings",
+    "genres": [
+      "Documentary",
+      "Music",
+      "Biography"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/score_a_film_music_documentary",
+    "movieTitle": "Score: A Film Music Documentary",
+    "movieDesc": "Tracking the progress of modern-day film score development, this documentary illustrates how the first few notes on a piano keyboard end up in the most dramatic moments of a film's emotional climax. Turning the spotlight on the creative struggles that make up a major motion picture score, this documentary showcases the way the world's top soundsmiths solve musical challenges - from the creative to the technical.",
+    "movieImage": "https://resizing.flixster.com/j75CeaZ-L5Spy8KQzk4BxUVZ49g=/206x305/v2/https://resizing.flixster.com/EgBpFwPlMWQoS2ph7AHNRZvH8o8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzVmMjJhYzIyLWVkNGUtNGJjMC1hMGYyLTgxMjQxZmFkOGM4My53ZWJw",
+    "metadataArr": [
+      "Released Jun 16 2017",
+      "1h 34m"
+    ],
+    "criticsScore": "91%",
+    "criticReviews": "34 Reviews",
+    "audienceScore": "83%",
+    "audienceVerifiedCount": "1,000+ Ratings",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/the_bee_gees_how_can_you_mend_a_broken_heart",
+    "movieTitle": "The Bee Gees: How Can You Mend a Broken Heart",
+    "movieDesc": "Brothers Barry, Maurice and Robin Gibb find early fame in the 1960s and go on to write over 1,000 songs, including 20 No. 1 hits. This film follows the group's meteoric rise as they navigate the complexities of working so intimately alongside family.",
+    "movieImage": "https://resizing.flixster.com/--4HSEHWdlxiuJN9BXZQDFmhMHw=/206x305/v2/https://resizing.flixster.com/XUKgQwdFxl0nmQGX0CBy7R4yODY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzA4ZjQ1MzBkLTExYzAtNDg2My1iOTFlLTQ3NjliZDFkOTA3Zi5qcGc=",
+    "metadataArr": [
+      "2020",
+      "1h 51m"
+    ],
+    "criticsScore": "96%",
+    "criticReviews": "53 Reviews",
+    "audienceScore": "93%",
+    "audienceVerifiedCount": "100+ Ratings",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/folklore_the_long_pond_studio_sessions",
+    "movieTitle": "Folklore: The Long Pond Studio Sessions",
+    "movieDesc": "Taylor Swift, Aaron Dessner (The National), Jack Antonoff (Bleachers) and Justin Vernon (Bon Iver) created an album that crossed genres -- a musical journey that allows us to cry and laugh, and during these trying times, makes us feel like we're not quite so alone. They recorded \"folklore\" thousands of miles apart from each other and had never been in the same room together... until now. \"folklore: the long pond studio sessions\" was filmed in upstate New York in September 2020 and will premiere exclusively on Disney+ on Wednesday, November 25, at 12:01AM PT. Taylor, accompanied by co-producers Aaron Dessner and Jack Antonoff along with a guest appearance by Justin Vernon (Bon Iver), performs each song in order of her critically adored, five star album, \"folklore\" and for the very first time, reveals the stories and secrets behind all 17 songs.",
+    "movieImage": "https://resizing.flixster.com/t1TH2Tf7k50rzE235gfkXi7JO6w=/206x305/v2/https://resizing.flixster.com/b5pOrZIrIkLNtp21mRV5TW-IiLo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ4NTVmMTg1LTgxNjQtNGJkOS1iODllLWM3NWZhN2NlMjY5OC5qcGc=",
+    "metadataArr": [
+      "2020"
+    ],
+    "criticsScore": "100%",
+    "criticReviews": "13 Reviews",
+    "audienceScore": "95%",
+    "audienceVerifiedCount": "500+ Ratings",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/the_king",
+    "movieTitle": "The King",
+    "movieDesc": "Filmmaker Eugene Jarecki takes a musical road trip across the U.S. in Elvis Presley's 1963 Rolls Royce during the 2016 presidential election, comparing Elvis's transition from country boy to \"The King\" to America's transformation into an empire.",
+    "movieImage": "https://resizing.flixster.com/_a-HK5X9AnaQBevLvPb7jX-M71I=/206x305/v2/https://resizing.flixster.com/5wLdWGWZaa83C5lKSviKTYveIek=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBlNDAyODM0LTg3NGItNGM4NC1iZWJjLThlNjRlOTA2MDQ4Ny53ZWJw",
+    "metadataArr": [
+      "R",
+      "Released Jun 22 2018",
+      "1h 47m"
+    ],
+    "criticsScore": "77%",
+    "criticReviews": "95 Reviews",
+    "audienceScore": "53%",
+    "audienceVerifiedCount": "250+ Ratings",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/viena_and_the_fantomes",
+    "movieTitle": "Viena and the Fantomes",
+    "movieDesc": "A roadie finds herself caught up in a love triangle while traveling with a punk band during the 1980s.",
+    "movieImage": "https://resizing.flixster.com/p4ajZG685btlNZFUUaDHUvBeS-k=/206x305/v2/https://resizing.flixster.com/0TXKDWgRYChzcz6HVH3W5c5HvTc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzVkYTEyZjA5LTgzMjItNDZmZS05NmQwLWM2OWQ2YjQ1MzFhYy53ZWJw",
+    "metadataArr": [
+      "R",
+      "2020",
+      "1h 45m"
+    ],
+    "criticsScore": "20%",
+    "criticReviews": "5 Reviews",
+    "audienceScore": "27%",
+    "audienceVerifiedCount": "Fewer than 50 Ratings",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/what_the_hell_happened_to_blood_sweat_and_tears",
+    "movieTitle": "What the Hell Happened to Blood, Sweat & Tears?",
+    "movieDesc": "Blood, Sweat & Tears, known for hits such as \"Spinning Wheel\", \"You've Made Me So Very Happy\", and \"And When I Die\", headlined the legendary Woodstock Festival and won multiple Grammy Awards, most notably 1970's win for Album Of The Year, besting The Beatles' \"Abbey Road\" and \"Johnny Cash at San Quinten.\" This is the incredible never-before-told story about a top rock band that was unknowingly embroiled in a political rat’s nest involving the U.S. State Department, the Nixon White House and a controversial concert tour of Yugoslavia, Romania and Poland, countries that were behind what was then known as the Iron Curtain.  As a result, they found themselves in the crossfire of a polarized America, as divided then as it is now.",
+    "movieImage": "https://resizing.flixster.com/SjdFWveXwDnSu4Qx6d790t4-mCc=/206x305/v2/https://resizing.flixster.com/88PjM-xpBK0FH0TVEdE00ved4Ko=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzFlMzY1MDdiLTJkZmItNDk2Ni1iYjcyLTc2YmFjODFjOGUyNy5qcGc=",
+    "metadataArr": [
+      "Released Mar 24 2023",
+      "1h 52m"
+    ],
+    "criticsScore": "81%",
+    "criticReviews": "16 Reviews",
+    "audienceScore": "88%",
+    "audienceVerifiedCount": "Fewer than 50 Ratings",
+    "genres": [
+      "Documentary",
+      "Music",
+      "History"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/chavela",
+    "movieTitle": "Chavela",
+    "movieDesc": "The life of Mexican singer Chavela Vargas, who gains worldwide fame for her beauty and charm and her interpretation of traditional ranchera.",
+    "movieImage": "https://resizing.flixster.com/fflq2QlRY-HBvo4FicfSZPC5TRw=/206x305/v2/https://resizing.flixster.com/3pfe9bFG6kgantxa7RTJVXZSVgg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzQ1ZDJiODhiLWMwMTItNGEzZS05MmQ3LTEzOWFjODI5NDhiYy53ZWJw",
+    "metadataArr": [
+      "Released Oct 4 2017",
+      "1h 31m"
+    ],
+    "criticsScore": "95%",
+    "criticReviews": "40 Reviews",
+    "audienceScore": "81%",
+    "audienceVerifiedCount": "250+ Ratings",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/maria_by_callas",
+    "movieTitle": "Maria by Callas: In Her Own Words",
+    "movieDesc": "Never-before-seen footage and performances offer insight into the life and career of renowned opera singer Maria Callas.",
+    "movieImage": "https://resizing.flixster.com/5j7vKJFEThIfdOxRuRT2RzIX63I=/206x305/v2/https://resizing.flixster.com/bRwBLs7L615UDE67zpTcFo_bLMs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzk2YjA0ZWJlLTkzN2QtNDQ2OS05N2IyLTNhN2E4ZWYyNzA0YS53ZWJw",
+    "metadataArr": [
+      "PG",
+      "Released Nov 2 2018",
+      "1h 53m"
+    ],
+    "criticsScore": "91%",
+    "criticReviews": "80 Reviews",
+    "audienceScore": "69%",
+    "audienceVerifiedCount": "250+ Ratings",
+    "genres": [
+      "Documentary",
+      "Biography",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/nico_1988",
+    "movieTitle": "Nico, 1988",
+    "movieDesc": "Approaching age 50, singer/songwriter Nico leads a solitary existence -- far from her days as a Warhol superstar and celebrated vocalist for the Velvet Underground in the 1960s. Her life and career on the fringes, Nico's new manager convinces her to hit the road again and tour in Europe to promote her latest album. Struggling with demons and the consequences of a muddled life, she longs to rebuild a relationship with her son, whose custody she lost long ago.",
+    "movieImage": "https://resizing.flixster.com/rmsOYMxx0iB45eVf0r4ivrOykm4=/206x305/v2/https://resizing.flixster.com/YNHnyGtER2rlP6q5Ec7gWskA1aM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzc2MTIwNWZkLTAxZWItNDFjOC1iY2I4LWNjMzllZDhhMzQ5Yi53ZWJw",
+    "metadataArr": [
+      "R",
+      "Released Aug 1 2018",
+      "1h 34m"
+    ],
+    "criticsScore": "94%",
+    "criticReviews": "78 Reviews",
+    "audienceScore": "63%",
+    "audienceVerifiedCount": "100+ Ratings",
+    "genres": [
+      "Biography",
+      "History",
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/tokyo_pop",
+    "movieTitle": "Tokyo Pop",
+    "movieDesc": "Bleach-blonde wannabe rocker Wendy (Carrie Hamilton) is disillusioned with her life in New York City. After receiving a postcard from Japan saying \"wish you were here,\" she spontaneously hops on a plane to Tokyo with dreams of making it big as a singer. Quickly finding herself broke and a fish out of water, she moves into a youth hostel for gaijin (foreigners) and takes up work as a hostess at a karaoke bar. Just when she's at her breaking point, she meets Hiro (Diamond Yukai), a rock 'n' roller whose band is looking for their big break. They form a romantic and musical connection and Hiro convinces Wendy to become their lead singer. Through a combination of hustle and luck, they stumble into their 15 minutes of fame, but Wendy soon comes to realize that being a gaijin rocker may be nothing more than a passing fad. An underseen gem of '80s American independent cinema by Fran Rubel Kuzui (Buffy the Vampire Slayer), Tokyo Pop takes us on a breezy tour through bubble era Tokyo, replete with knowing nods to the city's vibrant pop culture.",
+    "movieImage": "https://resizing.flixster.com/2GnTd-HlzlcR_zCr9648gcYz8SU=/206x305/v2/https://resizing.flixster.com/jf4Iqg5SKfxNI_5f6Voanq6dGLI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2I2OTkyNGQ3LWEzYWQtNDk1OS1iYjhkLTU4MDRkMTEzYmFjYi5qcGc=",
+    "metadataArr": [
+      "R",
+      "Released Apr 15 1988",
+      "1h 39m"
+    ],
+    "criticsScore": "100%",
+    "criticReviews": "10 Reviews",
+    "audienceScore": "78%",
+    "audienceVerifiedCount": "250+ Ratings",
+    "genres": [
+      "Romance",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/olivia_rodrigo_driving_home_2_u",
+    "movieTitle": "Olivia Rodrigo: Driving Home 2 U (A Sour Film)",
+    "movieDesc": "For the first time, Olivia takes audiences on a familiar road trip from Salt Lake City, where she began writing her triple-platinum debut album \"SOUR\" (Geffen Records) to Los Angeles. Along the way, Rodrigo recounts the memories of writing and creating her record-breaking debut album and shares her feelings as a young woman navigating a specific time in her life. Through new live arrangements of her songs, intimate interviews and never-before-seen footage from the making of the album, audiences will follow her along on a cinematic journey exploring the story of \"SOUR.\"",
+    "movieImage": "https://resizing.flixster.com/U6IoJuZQ00EQu0mLxyFXK0uHv3A=/206x305/v2/https://resizing.flixster.com/Iy5FGRIputU6u4v9OLMYdVFJD5w=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzEzZjhjYTMyLTI4YmQtNGRhMy1iNDYxLWQ4ZmQ2YzJjODBkMi5qcGc=",
+    "metadataArr": [
+      "2022",
+      "1h 16m"
+    ],
+    "criticsScore": "100%",
+    "criticReviews": "5 Reviews",
+    "audienceScore": "81%",
+    "audienceVerifiedCount": "50+ Ratings",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/sign_o_the_times",
+    "movieTitle": "Sign 'o' the Times",
+    "movieDesc": "Highlights from Prince's 1987 European concert tour, including selections from the rock star's album of the same title.",
+    "movieImage": "https://resizing.flixster.com/3F7FLZd3pbTouXhmqrpZfPkCGz8=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p49540_p_v8_aa.jpg",
+    "metadataArr": [
+      "PG-13",
+      "1987",
+      "1h 25m"
+    ],
+    "criticsScore": "82%",
+    "criticReviews": "17 Reviews",
+    "audienceScore": "91%",
+    "audienceVerifiedCount": "1,000+ Ratings",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/the_music_of_strangers_yo_yo_ma_and_the_silk_road_ensemble",
+    "movieTitle": "The Music of Strangers: Yo-Yo Ma & the Silk Road Ensemble",
+    "movieDesc": "Filmmaker Morgan Neville profiles cellist Yo-Yo Ma and the Silk Road Ensemble, an eclectic group of musicians who tour worldwide.",
+    "movieImage": "https://resizing.flixster.com/kdXs-lWU_AA6lOepfO_YOvb05nQ=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12132902_p_v13_aa.jpg",
+    "metadataArr": [
+      "PG-13",
+      "Released Jun 10 2016",
+      "1h 36m"
+    ],
+    "criticsScore": "85%",
+    "criticReviews": "59 Reviews",
+    "audienceScore": "85%",
+    "audienceVerifiedCount": "1,000+ Ratings",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/a_tuba_to_cuba",
+    "movieTitle": "A Tuba to Cuba",
+    "movieDesc": "The leader of New Orleans' famed Preservation Hall Jazz Band seeks to fulfill his late father's dream of retracing their musical roots to the shores of Cuba in search of the indigenous music that gave birth to New Orleans jazz.",
+    "movieImage": "https://resizing.flixster.com/q4joAF6J-1H-Xe74qYxMPBQMf5E=/206x305/v2/https://resizing.flixster.com/5deHZB2XmLLODdRQW9c3msg_6Qo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2Q0YzY2YzY0LThhYTUtNGMyMi05NDdlLTE3ZWE4MjU2YTRkYS53ZWJw",
+    "metadataArr": [
+      "Released Feb 15 2019",
+      "1h 24m"
+    ],
+    "criticsScore": "100%",
+    "criticReviews": "11 Reviews",
+    "audienceScore": "83%",
+    "audienceVerifiedCount": "100+ Ratings",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/dead_ant",
+    "movieTitle": "Dead Ant",
+    "movieDesc": "Members of a metal band get a chance at a comeback when they are invited to perform at Coachella. When they become stranded in the desert, they have to fight for their lives against giant ants.",
+    "movieImage": "https://resizing.flixster.com/6mTJOmPsCYouXz9Qx1Y9PWJDPPI=/206x305/v2/https://resizing.flixster.com/ob79n1DOWTgV9t-hFm42aMy6_EY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzk3ZWRmYWE4LWEyZGItNDM1Ni1iNzFlLWNlZmRhOTZkOTUzMC53ZWJw",
+    "metadataArr": [
+      "2017",
+      "1h 27m"
+    ],
+    "criticsScore": "69%",
+    "criticReviews": "13 Reviews",
+    "audienceScore": "45%",
+    "audienceVerifiedCount": "50+ Ratings",
+    "genres": [
       "Comedy",
-      "Adventure"
+      "Horror",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/meet_me_in_the_bathroom",
+    "movieTitle": "Meet Me in the Bathroom",
+    "movieDesc": "Inspired by Lizzy Goodman’s bestselling book, MEET ME IN THE BATHROOM is an immersive archival journey through the explosive New York music scene of the early 2000s. Set against the backdrop of 9/11 and a world unaware of the seismic political, technological and cultural shifts about to occur, this acclaimed documentary tells the story of the last great romantic age of rock 'n' roll through the prism of a handful of era defining bands, including The Strokes, LCD Soundsystem, Yeah Yeah Yeahs, Interpol, TV on the Radio, and The Moldy Peaches.",
+    "movieImage": "https://resizing.flixster.com/8aQDvbYODy0q8U61pOq4FwP8xKU=/206x305/v2/https://resizing.flixster.com/bYA2TlKKmwGwbbkgrFbawlo3mbQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2U4Nzc1NTA4LWVkMTYtNDM5YS1hMGYyLTYzMjAyMDkzZjk0OS5qcGc=",
+    "metadataArr": [
+      "Released Nov 4 2022",
+      "1h 47m"
+    ],
+    "criticsScore": "74%",
+    "criticReviews": "50 Reviews",
+    "audienceScore": "67%",
+    "audienceVerifiedCount": "Fewer than 50 Ratings",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/the_lost_weekend_a_love_story",
+    "movieTitle": "The Lost Weekend: A Love Story",
+    "movieDesc": "\"The Lost Weekend: A Love Story\" explores the 18-month relationship (1973-1975) that John Lennon spent with May Pang, his Chinese American assistant turned lover (on Yoko Ono's insistence). With May's help, Lennon reunited with his son Julian and had his most artistically and commercially productive period post-Beatles -- with the albums \"Mind Games\", \"Walls and Bridges\" which included his only #1 Hit Single \"Whatever Gets You Through the Night\", \"Rock and Roll\" and collaborated with Elton John, David Bowie, Harry Nilsson, Mick Jagger, and Ringo to name a few. Pang chronicles it all revisiting her younger self, a naïve 22-year old experiencing her first, unforgettable love.",
+    "movieImage": "https://resizing.flixster.com/lJdUJ7MhhWT7YkBeBZq5STtuajM=/206x305/v2/https://resizing.flixster.com/rRgCbHor42A9KJKXXHRw-bp106g=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzMwMzU1NGE2LTM0OWMtNDczMy1iOTg0LWE0YTIxMzExYzJjYi5qcGc=",
+    "metadataArr": [
+      "Released Apr 13 2023",
+      "1h 37m"
+    ],
+    "criticsScore": "88%",
+    "criticReviews": "16 Reviews",
+    "audienceScore": "90%",
+    "audienceVerifiedCount": "50+ Ratings",
+    "genres": [
+      "Documentary",
+      "Biography",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/western_stars",
+    "movieTitle": "Western Stars",
+    "movieDesc": "Backed by a band and a full orchestra, Bruce Springsteen performs all 13 songs from his new album \"Western Stars,\" touching on themes of love, loss, loneliness, family and the passage of time.",
+    "movieImage": "https://resizing.flixster.com/5irC91EZv4pZB0v4Gldks6Qs1m4=/206x305/v2/https://resizing.flixster.com/11SedPzFIuXhhvuxC7Oy-l_osos=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzgyMTg3ZjNkLTZlNWEtNDZlYy1iYzM2LWJlYjQ2ZDBlYmQ4OC53ZWJw",
+    "metadataArr": [
+      "PG",
+      "Released Oct 25 2019",
+      "1h 23m"
+    ],
+    "criticsScore": "96%",
+    "criticReviews": "51 Reviews",
+    "audienceScore": "91%",
+    "audienceVerifiedCount": "250+ Verified Ratings",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/what_happened_miss_simone_2015",
+    "movieTitle": "What Happened, Miss Simone?",
+    "movieDesc": "Classically trained pianist, dive-bar chanteuse, black power icon and legendary recording artist Nina Simone lived a life of brutal honesty, musical genius, and tortured melancholy.",
+    "movieImage": "https://resizing.flixster.com/iNHMUWFmkB9yjlFmTM_sv352naU=/206x305/v2/https://resizing.flixster.com/sjMwi98I8eD2CMjQNYuj6rnna9M=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2UzMmIyM2FiLThjY2MtNDhlZC1iMmZiLTNiZjM0OWE1NjdjNS53ZWJw",
+    "metadataArr": [
+      "2015",
+      "1h 41m"
+    ],
+    "criticsScore": "90%",
+    "criticReviews": "51 Reviews",
+    "audienceScore": "85%",
+    "audienceVerifiedCount": "1,000+ Ratings",
+    "genres": [
+      "Documentary",
+      "Biography",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/bolden",
+    "movieTitle": "Bolden",
+    "movieDesc": "New Orleans cornet player Buddy Bolden becomes a key figure in the birth of jazz, influencing countless musicians for decades to come.",
+    "movieImage": "https://resizing.flixster.com/a0duN_oVNFeHNvd0ymGDBr3PMi4=/206x305/v2/https://resizing.flixster.com/5sgK6fLN2Dke2RnS3XfWZ0x3xb8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzkzNmZjMWU5LTY2MzYtNDdlZi1iMmZlLTZiYTVjM2JhMmI0OC53ZWJw",
+    "metadataArr": [
+      "R",
+      "Released May 3 2019",
+      "1h 42m"
+    ],
+    "criticsScore": "70%",
+    "criticReviews": "10 Reviews",
+    "audienceScore": "42%",
+    "audienceVerifiedCount": "Fewer than 50 Ratings",
+    "genres": [
+      "Biography",
+      "History",
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/fiddler_a_miracle_of_miracles",
+    "movieTitle": "Fiddler: A Miracle of Miracles",
+    "movieDesc": "When \"Fiddler on the Roof\" opened on Broadway in 1964, it explored themes of tradition, religion, and anti-Semitism against a modern backdrop of radical social change that addressed gender roles, sexuality, and race. Rare archival footage and interviews with musical luminaries explore the legacy of this long-running, award-winning musical.",
+    "movieImage": "https://resizing.flixster.com/dmIWwbUQZcQmFbQyWt74FhwVopE=/206x305/v2/https://resizing.flixster.com/Dy0EZcBpBxelqFFpIbHl83W-iN0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzU3NzAzYTlmLTk3MzUtNGExZS05ZTU3LWQ3MDg1ZTdhZTIzNS53ZWJw",
+    "metadataArr": [
+      "PG-13",
+      "Released Aug 23 2019",
+      "1h 32m"
+    ],
+    "criticsScore": "98%",
+    "criticReviews": "47 Reviews",
+    "audienceScore": "98%",
+    "audienceVerifiedCount": "50+ Verified Ratings",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/pink_all_i_know_so_far",
+    "movieTitle": "P!nk: All I Know So Far",
+    "movieDesc": "Join award-winning performer and musician P!NK as she embarks on her record-breaking 2019 “Beautiful Trauma” world tour and welcomes audiences to join her chosen family while trying to balance being a mom, a wife, a boss and a performer. Mixing footage from the road, behind-the-scenes interviews and personal material, director Michael Gracey (The Greatest Showman) gives audiences a glimpse behind the curtain of the circus that she calls life.",
+    "movieImage": "https://resizing.flixster.com/wmThyfiaqHyAFDfHgYqUK2gCzto=/206x305/v2/https://resizing.flixster.com/czfqc7W4LO7jZ5WCIgVGGU8Xndg=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2FmYzM5OTcxLTlmMjEtNGJiMy04NzdkLTQ2NTg3MzdkYjY4NC5qcGc=",
+    "metadataArr": [
+      "2021",
+      "1h 39m"
+    ],
+    "criticsScore": "69%",
+    "criticReviews": "32 Reviews",
+    "audienceScore": "89%",
+    "audienceVerifiedCount": "50+ Ratings",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/quincy",
+    "movieTitle": "Quincy",
+    "movieDesc": "An intimate look at the life of Quincy Jones, a music industry giant and winner of 27 Grammys.",
+    "movieImage": "https://resizing.flixster.com/QleqZpX_IW52ShNdPszZ-u_-5cI=/206x305/v2/https://resizing.flixster.com/hl2ZoFqk86GwCbuD5SdWk6nU6Do=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZlYTEyYTAyLTM1ZjEtNDg2NC1hYjBjLWViOWY4ZGRhYWQyMC53ZWJw",
+    "metadataArr": [
+      "Released Sep 21 2018",
+      "2h 4m"
+    ],
+    "criticsScore": "82%",
+    "criticReviews": "33 Reviews",
+    "audienceScore": "83%",
+    "audienceVerifiedCount": "100+ Ratings",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/bluebird_2019",
+    "movieTitle": "Bluebird",
+    "movieDesc": "Some of today's biggest singers/songwriters -- including Garth Brooks, Vince Gill and Taylor Swift -- discuss their memories of performing at the Bluebird Cafe in Nashville, Tenn.",
+    "movieImage": "https://resizing.flixster.com/m5PqXVOjCYn44UPZkrgnnsK1s3E=/206x305/v2/https://resizing.flixster.com/jkDWEVwAiWAkUkXRXLYykzFEyDs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2M2YzA0MGE0LTE1MDYtNGVkMi1iYjJkLTY2ZjZjYzJlYzRkNS53ZWJw",
+    "metadataArr": [
+      "Released Nov 15 2019",
+      "1h 23m"
+    ],
+    "criticsScore": "100%",
+    "criticReviews": "6 Reviews",
+    "audienceScore": "79%",
+    "audienceVerifiedCount": "Fewer than 50 Ratings",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/let_the_canary_sing",
+    "movieTitle": "Let the Canary Sing",
+    "movieDesc": "Chronicling Cyndi Lauper's meteoric ascent to stardom and her profound impact on generations through her music, ever-evolving punk style, unwavering feminism, and tireless advocacy. The film takes the audience on an engaging exploration of the world of a renowned and pioneering artist, who has left a remarkable legacy with her artwork.",
+    "movieImage": "https://resizing.flixster.com/yrAvyRfPujobobxx-vm16d0lVWI=/206x305/v2/https://resizing.flixster.com/VaQqvtm9hmiP7Ayx3p_GiZbLMoM=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzkyN2FjZmI2LTM0MmEtNDBiMS05Njc0LTAxNzU5ZDAxMmU2Yy5qcGc=",
+    "metadataArr": [
+      "2023",
+      "1h 36m"
+    ],
+    "criticsScore": "83%",
+    "criticReviews": "12 Reviews",
+    "audienceScore": "94%",
+    "audienceVerifiedCount": "Fewer than 50 Ratings",
+    "genres": [
+      "Documentary",
+      "Music",
+      "Biography"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/prey_for_rock_and_roll",
+    "movieTitle": "Prey for Rock & Roll",
+    "movieDesc": "\"Prey for Rock & Roll,\" based on Cheri Lovedog's autobiographical stageplay, stars Gina Gershon as Jacki, a rocker who's hitting her \"I'm still here\" years and worrying that she may never make it big. Also starring Drea DeMatteo, Lori Petty, Shelly Cole, Marc Blucas, and Ivan Martin, the film marked the feature directing debut of veteran music supervisor Alex Steyermark. \"Prey for Rock & Roll\" had its world premiere at the 2003 Sundance Film Festival and went on to play major festivals worldwide before a limited release in fall of 2003. Gershon sings all the film's songs (produced by Stephen Trask of Hedwig and the Angry Inch fame), backed by an all-star band of women alt-rockers. A film ahead of its time, \"Prey for Rock & Roll\" was embraced by mainstream and alternative media alike, and immediately established itself as an LGBTQ touchstone film and a rock and roll cult classic.",
+    "movieImage": "https://resizing.flixster.com/19P_pdVpMIhPp4RETYk60tOBIEY=/206x305/v2/https://resizing.flixster.com/fVJZ8s4HGa-Px_ojPcn94q9Qs-I=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzlhZTRmMTA3LWYwOWYtNDQwNC05ODQ5LWExZDNlNGQxOGIwZi5qcGc=",
+    "metadataArr": [
+      "R",
+      "Released Oct 17 2003",
+      "1h 44m"
+    ],
+    "criticsScore": "58%",
+    "criticReviews": "50 Reviews",
+    "audienceScore": "63%",
+    "audienceVerifiedCount": "2,500+ Ratings",
+    "genres": [
+      "Drama",
+      "Music",
+      "LGBTQ+"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/a_very_murray_christmas",
+    "movieTitle": "A Very Murray Christmas",
+    "movieDesc": "When a blizzard shuts down the production of Bill Murray's live holiday broadcast, he makes the best of the situation by singing and celebrating with friends.",
+    "movieImage": "https://resizing.flixster.com/4iUC1wvlwZHDq7gb1JtVZanakzE=/206x305/v2/https://resizing.flixster.com/F6oVcltO8csGa7CcdylntXD889w=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzU0ZDg0MzU0LWE4YjAtNDA1NC05N2MzLWYwMTAzNWU4MGU2YS5qcGc=",
+    "metadataArr": [
+      "2015",
+      "56m"
+    ],
+    "criticsScore": "68%",
+    "criticReviews": "50 Reviews",
+    "audienceScore": "38%",
+    "audienceVerifiedCount": "1,000+ Ratings",
+    "genres": [
+      "Holiday",
+      "Variety",
+      "Comedy",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/coldplay_a_head_full_of_dreams",
+    "movieTitle": "Coldplay: A Head Full of Dreams",
+    "movieDesc": "A portrait of rock band Coldplay's rise to fame, from playing in pubs to selling out stadiums across the world. Members of the band reflect upon their two decades together.",
+    "movieImage": "https://resizing.flixster.com/vMgg-scU5zW4MRdwHSORY7v_-Sg=/206x305/v2/https://resizing.flixster.com/0KMg16Au3AWXFfGMrGeKLzJr37s=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzA3M2M2ZjRiLWNhYjgtNDA0ZC04YmFmLWUxMWIwYmRkM2VkOC53ZWJw",
+    "metadataArr": [
+      "2018",
+      "1h 55m"
+    ],
+    "criticsScore": "50%",
+    "criticReviews": "6 Reviews",
+    "audienceScore": "89%",
+    "audienceVerifiedCount": "50+ Ratings",
+    "genres": [
+      "Documentary",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/learn_to_swim",
+    "movieTitle": "Learn To Swim",
+    "movieDesc": "Learn to Swim dives into the enchanting world of contemporary jazz with a musical meditation on love and loss, following the doggedly private and talented saxophone player Dezi (Thomas Antony Olajide) and a vivacious, but less experienced singer named Selma (Emma Ferreira). When the two meet, sparks fly, but their respective emotional baggage and temperaments make the road to romance bumpy at best.",
+    "movieImage": "https://resizing.flixster.com/ARKn-IylC8QkrnGuqWLmGgd_JFU=/206x305/v2/https://resizing.flixster.com/a92wGzOLSw40vLxQzFbCusdjcvo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2VmZjI3YTc3LTcwNmEtNGI2Yy1iZWI5LTQzNjBmYjExYmU3NS5qcGc=",
+    "metadataArr": [
+      "2021",
+      "1h 30m"
+    ],
+    "criticsScore": "92%",
+    "criticReviews": "13 Reviews",
+    "audienceScore": "27%",
+    "audienceVerifiedCount": "Fewer than 50 Ratings",
+    "genres": [
+      "Romance",
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/lost_soulz",
+    "movieTitle": "Lost Soulz",
+    "movieDesc": "When aspiring rapper Sol is discovered by a group of Gen-Z musicians after performing at a house party, he joins their tour through the heart of Texas and embarks on a once-in-a-lifetime road trip. Sol and his new collaborators bond over their shared pains and longings from the lives they left behind. Bold and brash, yet surprisingly sensitive and vulnerable, these young artists pour their souls into the music they create together. The novelty of Sol's newfound family fades as the demons Sol left behind come back to haunt him, including his guilt over abandoning his ailing friend. His sense of self is put to the ultimate test as he seeks refuge from the rootlessness and loss that has defined his existence. Set to a lo-fi, genre-bending hip-hop soundtrack, Katherine Propper's award-winning debut is suffused with a hazy and infectious energy and features virtuosic musical performances, from the tour van to the stage, that allow the ensemble's winning chemistry to shine.",
+    "movieImage": "https://resizing.flixster.com/EdWC5Ylt_qRjNT3nRFPRq4wTplI=/206x305/v2/https://resizing.flixster.com/WzxgBvf_xuDGC_i7wzBbvUUUVpc=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZjZGIxZGZkLWE2NTctNGExNi1iZjQwLTE2YTNiYmZhODJjOC5qcGc=",
+    "metadataArr": [
+      "Released May 3 2024",
+      "1h 35m"
+    ],
+    "criticsScore": "89%",
+    "criticReviews": "19 Reviews",
+    "audienceScore": "86%",
+    "audienceVerifiedCount": "Fewer than 50 Ratings",
+    "genres": [
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/once_were_brothers_robbie_robertson_and_the_band",
+    "movieTitle": "Once Were Brothers: Robbie Robertson and The Band",
+    "movieDesc": "The story of a band that went from backing up Bob Dylan to becoming one of the most influential groups of its era.",
+    "movieImage": "https://resizing.flixster.com/PMiqB5sbOyZ-H52rdSbKtang1Jo=/206x305/v2/https://resizing.flixster.com/5-3ThxEjw4L67anQU1sadEKhuIY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzkxNmI0MzAzLTY5YjgtNDI2Yi05YjBmLWY0NjQ1NTk5NzM2Zi53ZWJw",
+    "metadataArr": [
+      "R",
+      "Released Feb 21 2020",
+      "1h 40m"
+    ],
+    "criticsScore": "84%",
+    "criticReviews": "62 Reviews",
+    "audienceScore": "87%",
+    "audienceVerifiedCount": "100+ Ratings",
+    "genres": [
+      "Music"
+    ]
+  },
+  {
+    "url": "https://www.rottentomatoes.com/m/ronnies",
+    "movieTitle": "Ronnie's",
+    "movieDesc": "RONNIE'S chronicles the life of saxophonist Ronnie Scott, from poor, Jewish kid in the East End of London to owner of the legendary night club, Ronnie's. Musical greats spanning decades played at Ronnie's including Dizzy Gillespie, Sarah Vaughan, Ella Fitzgerald, Miles Davis, Rahsaan Roland Kirk, Nina Simone, Van Morrison, Chet Baker, and Jimi Hendrix, who played there the night of his death. Glorious clips bring to life this legendary jazz club and its charming yet tormented owner.",
+    "movieImage": "https://resizing.flixster.com/RgO7_jWA2vACapDj0I9XoomPzBc=/206x305/v2/https://resizing.flixster.com/DffzesSOqHbQkmKQtCIlsmMZWVI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBiNGMyMjI1LWJlMWYtNGQxMy04OTU1LWFlNzMyODBlMmZmMy5qcGc=",
+    "metadataArr": [
+      "Released Feb 11 2022",
+      "1h 43m"
+    ],
+    "criticsScore": "100%",
+    "criticReviews": "14 Reviews",
+    "audienceScore": "100%",
+    "audienceVerifiedCount": "Fewer than 50 Ratings",
+    "genres": [
+      "Music",
+      "Documentary"
     ]
   }
 ]
